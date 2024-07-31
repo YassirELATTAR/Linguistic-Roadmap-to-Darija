@@ -64,7 +64,7 @@ This project is an Express.js application designed to handle various endpoints f
       #from_csv_to_xml()
       #save_xml_to_mongodb(db_name,client)
    ```
-   The python code will prompt a file dialog to navigate to the csv files (you can find them in folder: **/raw-csv**) and select folders:
+   The python code will prompt a file dialog to navigate to the csv files (you can find them in folder: **/dataset-main**) and select folders:
    - sentences
    - semantic categories
    - syntactic categories
