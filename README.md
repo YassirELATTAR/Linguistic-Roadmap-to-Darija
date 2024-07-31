@@ -22,8 +22,8 @@ This project is an Express.js application designed to handle various endpoints f
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/darija-vocabulary-api.git
-    cd darija-vocabulary-api
+    git clone git@github.com:YassirELATTAR/Linguistic-Roadmap-to-Darija.git
+    cd Linguistic-Roadmap-to-Darija
     ```
 
 2.  Install node:
