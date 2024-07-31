@@ -1,9 +1,14 @@
+//Defining the updateXMLExample function
 function updateXMLExample() {
-    const category = document.getElementById('category').value;
-    let xmlExample = '';
+  //Getting the value of the 'category' element from the DOM
+  const category = document.getElementById('category').value;
+  //Initializing the xmlExample variable to an empty string
+  let xmlExample = '';
 
-    switch (category) {
-        case 'in-definite_articles':
+  //Using a switch statement to set the XML example based on the selected category
+  switch (category) {
+      case 'in-definite_articles':
+          //Setting the XML example for 'in-definite_articles'
             xmlExample = `
 &lt;<span class="tag">corpus</span>&gt;<br>
 &nbsp;&nbsp;&nbsp;&lt;<span class="tag">entry</span>&gt;<br>
@@ -14,6 +19,8 @@ function updateXMLExample() {
 
             `;
             break;
+          //Setting the XML example for 'adjectives'
+
         case 'adjectives':
             xmlExample = `
 &lt;<span class="tag">corpus</span>&gt;<br>
@@ -27,6 +34,7 @@ function updateXMLExample() {
 &lt;/<span class="tag">corpus</span>&gt;
             `;
             break;
+        //Setting the XML example for 'adverbs'
         case 'adverbs':
             xmlExample=`
 &lt;<span class="tag">corpus</span>&gt;<br>
@@ -41,6 +49,7 @@ function updateXMLExample() {
             `;
             break;
         case 'conjug_past':
+        //Setting the XML example for 'conjug_past'
             xmlExample=`
 &lt;<span class="tag">corpus</span>&gt;<br>
 &nbsp;&nbsp;&nbsp;&lt;<span class="tag">entry</span>&gt;<br>
@@ -59,6 +68,7 @@ function updateXMLExample() {
 `;
 break;
         case 'conjug_present':
+          //Setting the XML example for 'conjug_present'
             xmlExample=`
 &lt;<span class="tag">corpus</span>&gt;<br>
 &nbsp;&nbsp;&nbsp;&lt;<span class="tag">entry</span>&gt;<br>
@@ -76,6 +86,7 @@ break;
             `;
         break;
         case 'imperatives':
+        //Setting the XML example for 'imperatives'
             xmlExample=`
 &lt;<span class="tag">corpus</span>&gt;<br>
 &nbsp;&nbsp;&nbsp;&lt;<span class="tag">entry</span>&gt;<br>
@@ -88,6 +99,7 @@ break;
 `;
         break;
         case 'masculine_feminine_plural':
+        //Setting the XML example for 'masculine_feminine_plural'
             xmlExample=`
 &lt;<span class="tag">corpus</span>&gt;<br>
 &nbsp;&nbsp;&nbsp;&lt;<span class="tag">entry</span>&gt;<br>
@@ -99,6 +111,7 @@ break;
 &lt;/<span class="tag">corpus</span>&gt;
     `;
         break;
+        //Setting the XML example for 'nouns'
         case 'nouns':
             xmlExample=`
 &lt;<span class="tag">corpus</span>&gt;<br>
@@ -112,6 +125,7 @@ break;
 &lt;/<span class="tag">corpus</span>&gt;
 `;
             break;
+        //Setting the XML example for 'prepoisitions'
         case 'prepositions':
             xmlExample=`
 &lt;<span class="tag">corpus</span>&gt;<br>
@@ -125,6 +139,8 @@ break;
 &lt;/<span class="tag">corpus</span>&gt;
             `;     
         break;   
+
+        //Setting the XML example for 'pronouns'
         case 'pronouns':
             xmlExample=`
 &lt;<span class="tag">corpus</span>&gt;<br>
@@ -139,6 +155,8 @@ break;
             `;
             break;
         case 'verb_to_noun':
+        
+        //Setting the XML example for 'verb_to_noun'
             xmlExample=`
 &lt;<span class="tag">corpus</span>&gt;<br>
 &nbsp;&nbsp;&nbsp;&lt;<span class="tag">entry</span>&gt;<br>
@@ -149,6 +167,8 @@ break;
             `;
             break;
         case 'verbs':
+        //Setting the XML example for 'verbs'
+          
             xmlExample=`
 &lt;<span class="tag">corpus</span>&gt;<br>
 &nbsp;&nbsp;&nbsp;&lt;<span class="tag">entry</span>&gt;<br>
@@ -162,6 +182,7 @@ break;
             `;
         break;
         default:
+          //Setting the XML example for 'DEFAULT'
             xmlExample = `
 &lt;<span class="tag">corpus</span>&gt;<br>
 &nbsp;&nbsp;&nbsp;&lt;<span class="tag">entry</span>&gt;<br>
@@ -175,38 +196,45 @@ break;
             `;
     }
 
-    // Update the XML example element
+    //Setting the inner HTML of the element with the id 'xmlExample' to the xmlExample variable
     document.getElementById('xmlExample').innerHTML = xmlExample;
 
 
    
 }
+//Initializing the isValid variable to false to track the validation status of the uploaded file
 let isValid = false;
 
+//Defining the uploadFile function to handle the file upload and validation
 function uploadFile() {
+  //The file input element and selected category from the DOM
   const fileInput = document.getElementById('xmlFile');
   const category = document.getElementById('category').value;
 
+  //Checking if a category is selected and a file is uploaded
   if (!category || !fileInput.files[0]) {
     alert('Please select a category and upload an XML file.');
     return;
   }
 
+  //Creating a new FormData object to hold the category and file data
   const formData = new FormData();
   formData.append('category', category);
   formData.append('file', fileInput.files[0]);
 
+  //Sending a POST request to the /upload_grammar endpoint with the form data
   fetch('/upload_grammar', {
     method: 'POST',
     body: formData
   })
-  .then(response => response.json())
+  .then(response => response.json()) //Parsing the JSON response
   .then(data => {
+    //Checking if the server indicates success
     if (data.success) {
-      isValid = true;
+      isValid = true; //Setting isValid to true if validation succeeds
       alert('File uploaded and validated successfully.');
     } else {
-      isValid = false;
+      isValid = false; //Setting isValid to false if validation fails
       alert('File validation failed: ' + data.message);
     }
   })
@@ -217,14 +245,18 @@ function uploadFile() {
   });
 }
 
+//Defining the submitForm function to handle the form submission
 function submitForm() {
+  //Checking if the file has been validated
   if (!isValid) {
     alert('Please ensure the file is valid before submitting.');
     return;
   }
 
+  //Getting the selected category from the DOM
   const category = document.getElementById('category').value;
 
+  //Sending a POST request to the /submit_grammar on server side with the selected category
   fetch('/submit_grammar', {
     method: 'POST',
     headers: {
@@ -232,24 +264,29 @@ function submitForm() {
     },
     body: JSON.stringify({ category })
   })
-    .then(response => response.json())
-    .then(data => {
-      if (data.success) {
-        alert(data.message);
-        document.getElementById('contributeForm').reset();
-        isValid = false;
-      } else {
-        alert('Submission failed: ' + data.message);
-      }
-    })
-    .catch(error => {
-      console.error('Error:', error);
-      alert('An error occurred during the submission.');
-    });
+  .then(response => response.json())
+  .then(data => {
+    //Checking if the server indicates success
+    if (data.success) {
+      alert(data.message);
+      document.getElementById('contributeForm').reset(); //reset the form
+      isValid = false; //reset isValid to false
+    } else {
+      alert('Submission failed: ' + data.message);
+    }
+  })
+  .catch(error => {
+    console.error('Error:', error);
+    alert('An error occurred during the submission.');
+  });
 }
 
+//Let's add an event listener to the file input element to update the label with the selected file name
 document.getElementById('xmlFile').addEventListener('change', function() {
+  //the selected file name
   const fileName = this.files[0].name;
+  //the next element to display the file name
   const nextSibling = this.nextElementSibling;
+  //
   nextSibling.innerText = fileName;
 });

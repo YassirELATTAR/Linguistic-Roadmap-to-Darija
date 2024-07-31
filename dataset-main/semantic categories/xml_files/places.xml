@@ -1,0 +1,941 @@
+<?xml version="1.0" ?>
+<corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../../../xsds/darija_most.xsd">
+   <entry>
+    <n1>kawkab</n1>
+    <n2>kaoukab</n2>
+    <darija_ar>كوكب</darija_ar>
+    <eng>planet</eng>
+  </entry>
+  <entry>
+    <n1>9aarra</n1>
+    <n2>9arra</n2>
+    <n3>qaarra</n3>
+    <darija_ar>قارّة</darija_ar>
+    <eng>continent</eng>
+  </entry>
+  <entry>
+    <n1>ifri9ia</n1>
+    <n2>ifriqia</n2>
+    <darija_ar>إفريقيا</darija_ar>
+    <eng>africa</eng>
+  </entry>
+  <entry>
+    <n1>europa</n1>
+    <n2>oroppa</n2>
+    <darija_ar>أوربا</darija_ar>
+    <eng>europe</eng>
+  </entry>
+  <entry>
+    <n1>blad</n1>
+    <n2>bilad</n2>
+    <darija_ar>بلاد</darija_ar>
+    <eng>country</eng>
+  </entry>
+  <entry>
+    <n1>dawla</n1>
+    <n2>doula</n2>
+    <n3>dola</n3>
+    <n4>dowla</n4>
+    <darija_ar>دولة</darija_ar>
+    <eng>country</eng>
+  </entry>
+  <entry>
+    <n1>mghrib</n1>
+    <n2>maghrib</n2>
+    <darija_ar>المغرب</darija_ar>
+    <eng>morocco</eng>
+  </entry>
+  <entry>
+    <n1>ssa3oudia</n1>
+    <darija_ar>السعودية</darija_ar>
+    <eng>saudi arabia</eng>
+  </entry>
+  <entry>
+    <n1>9atar</n1>
+    <darija_ar>قطر</darija_ar>
+    <eng>qatar</eng>
+  </entry>
+  <entry>
+    <n1>imarat</n1>
+    <darija_ar>الإمارات</darija_ar>
+    <eng>emirates</eng>
+  </entry>
+  <entry>
+    <n1>dzair</n1>
+    <darija_ar>دزاير</darija_ar>
+    <eng>algeria</eng>
+  </entry>
+  <entry>
+    <n1>jaza2ir</n1>
+    <n2>ljaza2ir</n2>
+    <n3>ljazayr</n3>
+    <darija_ar>الجزائر</darija_ar>
+    <eng>algeria</eng>
+  </entry>
+  <entry>
+    <n1>fransa</n1>
+    <darija_ar>فرنسا</darija_ar>
+    <eng>france</eng>
+  </entry>
+  <entry>
+    <n1>Sbania</n1>
+    <darija_ar>صبانيا</darija_ar>
+    <eng>spain</eng>
+  </entry>
+  <entry>
+    <n1>brT9iz</n1>
+    <n2>lbart9iz</n2>
+    <darija_ar>برطقيز</darija_ar>
+    <eng>portugal</eng>
+  </entry>
+  <entry>
+    <n1>bortoghal</n1>
+    <n2>lbortoghal</n2>
+    <darija_ar>برتغال</darija_ar>
+    <eng>portugal</eng>
+  </entry>
+  <entry>
+    <n1>almania</n1>
+    <n2>almanya</n2>
+    <darija_ar>ألمانيا</darija_ar>
+    <eng>germany</eng>
+  </entry>
+  <entry>
+    <n1>swisra</n1>
+    <n2>souisra</n2>
+    <darija_ar>سويسرا</darija_ar>
+    <eng>switzerland</eng>
+  </entry>
+  <entry>
+    <n1>japoun</n1>
+    <n2>jjapoun</n2>
+    <n3>jjapon</n3>
+    <darija_ar>جاپون</darija_ar>
+    <eng>japan</eng>
+  </entry>
+  <entry>
+    <n1>mirikan</n1>
+    <n2>lmirikan</n2>
+    <darija_ar>ميريكان</darija_ar>
+    <eng>united states</eng>
+  </entry>
+  <entry>
+    <n1>ngliz</n1>
+    <n2>negliz</n2>
+    <n3>ingliz</n3>
+    <darija_ar>نڭليز</darija_ar>
+    <eng>united kingdom</eng>
+  </entry>
+  <entry>
+    <n1>bljika</n1>
+    <n2>beljika</n2>
+    <n3>baljika</n3>
+    <darija_ar>بلجيكا</darija_ar>
+    <eng>belgium</eng>
+  </entry>
+  <entry>
+    <n1>talyan</n1>
+    <n2>talian</n2>
+    <darija_ar>طاليان</darija_ar>
+    <eng>italy</eng>
+  </entry>
+  <entry>
+    <n1>misr</n1>
+    <n2>misra</n2>
+    <n3>mesr</n3>
+    <n4>maSr</n4>
+    <darija_ar>مصر</darija_ar>
+    <eng>egypt</eng>
+  </entry>
+  <entry>
+    <n1>touns</n1>
+    <darija_ar>تونس</darija_ar>
+    <eng>tunisia</eng>
+  </entry>
+  <entry>
+    <n1>moritania</n1>
+    <n2>mouritania</n2>
+    <darija_ar>موريتانيا</darija_ar>
+    <eng>mauritania</eng>
+  </entry>
+  <entry>
+    <n1>filistin</n1>
+    <n2>filistine</n2>
+    <darija_ar>فلسطين</darija_ar>
+    <eng>palestine</eng>
+  </entry>
+  <entry>
+    <n1>chinwa</n1>
+    <darija_ar>شينوا</darija_ar>
+    <eng>china</eng>
+  </entry>
+  <entry>
+    <n1>SSin</n1>
+    <darija_ar>الصين</darija_ar>
+    <eng>china</eng>
+  </entry>
+  <entry>
+    <n1>younan</n1>
+    <n2>yonan</n2>
+    <darija_ar>اليونان</darija_ar>
+    <eng>greece</eng>
+  </entry>
+  <entry>
+    <n1>mdina</n1>
+    <n2>madina</n2>
+    <darija_ar>مدينة</darija_ar>
+    <eng>city</eng>
+  </entry>
+  <entry>
+    <n1>3aSima</n1>
+    <n2>3aaSima</n2>
+    <darija_ar>عاصمة</darija_ar>
+    <eng>capital</eng>
+  </entry>
+  <entry>
+    <n1>fas</n1>
+    <n2>faas</n2>
+    <n3>fes</n3>
+    <darija_ar>فاس</darija_ar>
+    <eng>fez</eng>
+  </entry>
+  <entry>
+    <n1>sla</n1>
+    <n2>sala</n2>
+    <darija_ar>سلا</darija_ar>
+    <eng>salé</eng>
+  </entry>
+  <entry>
+    <n1>mknas</n1>
+    <n2>meknes</n2>
+    <n3>meknas</n3>
+    <n4>meknes</n4>
+    <darija_ar>مكناس</darija_ar>
+    <eng>meknes</eng>
+  </entry>
+  <entry>
+    <n1>oujda</n1>
+    <n2>wejda</n2>
+    <n3>ouajda</n3>
+    <n4>wjda</n4>
+    <darija_ar>وجدة</darija_ar>
+    <eng>oujda</eng>
+  </entry>
+  <entry>
+    <n1>9niTra</n1>
+    <n2>qniTra</n2>
+    <darija_ar>قنيطرة</darija_ar>
+    <eng>kenitra</eng>
+  </entry>
+  <entry>
+    <n1>agadir</n1>
+    <darija_ar>أڭادير</darija_ar>
+    <eng>agadir</eng>
+  </entry>
+  <entry>
+    <n1>tetouan</n1>
+    <n2>TiTwan</n2>
+    <n3>TeTwan</n3>
+    <n4>titouan</n4>
+    <darija_ar>تطوان</darija_ar>
+    <eng>tetouan</eng>
+  </entry>
+  <entry>
+    <n1>tmara</n1>
+    <n2>temara</n2>
+    <darija_ar>تمارة</darija_ar>
+    <eng>temara</eng>
+  </entry>
+  <entry>
+    <n1>asfi</n1>
+    <n2>safi</n2>
+    <darija_ar>أسفي</darija_ar>
+    <eng>safi</eng>
+  </entry>
+  <entry>
+    <n1>mo7mmadia</n1>
+    <n2>mohammadia</n2>
+    <n3>mo7mmedia</n3>
+    <n4>mohmmedia</n4>
+    <darija_ar>المحمدية</darija_ar>
+    <eng>mohammedia</eng>
+  </entry>
+  <entry>
+    <n1>khribga</n1>
+    <n2>khouribga</n2>
+    <n3>khoribga</n3>
+    <darija_ar>خريبڭة</darija_ar>
+    <eng>khouribga</eng>
+  </entry>
+  <entry>
+    <n1>kaza</n1>
+    <n2>casa</n2>
+    <darija_ar>كازا</darija_ar>
+    <eng>casablanca</eng>
+  </entry>
+  <entry>
+    <n1>darbida</n1>
+    <n2>ddar lbida</n2>
+    <n3>dar bida</n3>
+    <darija_ar>الدار البيضاء</darija_ar>
+    <eng>casablanca</eng>
+  </entry>
+  <entry>
+    <n1>Tanja</n1>
+    <darija_ar>طنجة</darija_ar>
+    <eng>tangier</eng>
+  </entry>
+  <entry>
+    <n1>mrrakch</n1>
+    <n2>mrrakech</n2>
+    <n3>mrrakach</n3>
+    <darija_ar>مراكش</darija_ar>
+    <eng>marrakech</eng>
+  </entry>
+  <entry>
+    <n1>rbaT</n1>
+    <darija_ar>الرباط</darija_ar>
+    <eng>rabat</eng>
+  </entry>
+  <entry>
+    <n1>jdida</n1>
+    <n2>el jadida</n2>
+    <n3>jjdida</n3>
+    <darija_ar>جديدة</darija_ar>
+    <eng>el jadida</eng>
+  </entry>
+  <entry>
+    <n1>bnimllal</n1>
+    <n2>bni mllal</n2>
+    <n3>bni mellal</n3>
+    <n4>bani mellal</n4>
+    <darija_ar>بني ملال</darija_ar>
+    <eng>beni mellal</eng>
+  </entry>
+  <entry>
+    <n1>ait melloul</n1>
+    <darija_ar>أيت ملّول</darija_ar>
+    <eng>ait melloul</eng>
+  </entry>
+  <entry>
+    <n1>nnador</n1>
+    <n2>nador</n2>
+    <darija_ar>الناظور</darija_ar>
+    <eng>nador</eng>
+  </entry>
+  <entry>
+    <n1>dar bo3zza</n1>
+    <n2>dar bouazza</n2>
+    <n3>darbo3zza</n3>
+    <n4>dar bo3za</n4>
+    <darija_ar>دار بوعزّة</darija_ar>
+    <eng>dar bouazza</eng>
+  </entry>
+  <entry>
+    <n1>taza</n1>
+    <darija_ar>تازة</darija_ar>
+    <eng>taza</eng>
+  </entry>
+  <entry>
+    <n1>settat</n1>
+    <n2>sttat</n2>
+    <n3>stat</n3>
+    <darija_ar>سطات</darija_ar>
+    <eng>settat</eng>
+  </entry>
+  <entry>
+    <n1>berrchid</n1>
+    <n2>brrchid</n2>
+    <n3>brchid</n3>
+    <darija_ar>برشيد</darija_ar>
+    <eng>berrechid</eng>
+  </entry>
+  <entry>
+    <n1>khmisat</n1>
+    <n2>khemisset</n2>
+    <n3>khomisat</n3>
+    <n4>lkhmisat</n4>
+    <darija_ar>الخميسات</darija_ar>
+    <eng>khemisset</eng>
+  </entry>
+  <entry>
+    <n1>inzggan</n1>
+    <n2>inzegane</n2>
+    <n3>inezgane</n3>
+    <n4>inezgan</n4>
+    <darija_ar>إنزڭّان</darija_ar>
+    <eng>inezgane</eng>
+  </entry>
+  <entry>
+    <n1>9Sr lkbir</n1>
+    <n2>l9Ser lkbir</n2>
+    <n3>9Sar lkbir</n3>
+    <n4>9Ser el kabir</n4>
+    <darija_ar>قصر الكبير</darija_ar>
+    <eng>ksar el kabir</eng>
+  </entry>
+  <entry>
+    <n1>l3raich</n1>
+    <n2>l3raych</n2>
+    <n3>laaraich</n3>
+    <darija_ar>لعرايش</darija_ar>
+    <eng>larache</eng>
+  </entry>
+  <entry>
+    <n1>glmim</n1>
+    <n2>golmim</n2>
+    <n3>guelmim</n3>
+    <n4>glimim</n4>
+    <darija_ar>ڭلميم</darija_ar>
+    <eng>guelmim</eng>
+  </entry>
+  <entry>
+    <n1>khnifra</n1>
+    <n2>khonifra</n2>
+    <n3>khenifra</n3>
+    <darija_ar>خنيفرة</darija_ar>
+    <eng>khenifra</eng>
+  </entry>
+  <entry>
+    <n1>brkan</n1>
+    <n2>berkane</n2>
+    <n3>berkan</n3>
+    <darija_ar>بركان</darija_ar>
+    <eng>berkane</eng>
+  </entry>
+  <entry>
+    <n1>taourirt</n1>
+    <n2>tawrirt</n2>
+    <darija_ar>تاوريرت</darija_ar>
+    <eng>taourirt</eng>
+  </entry>
+  <entry>
+    <n1>boskkora</n1>
+    <n2>boskora</n2>
+    <n3>bouskoura</n3>
+    <n4>bouskora</n4>
+    <darija_ar>بوسكّورة</darija_ar>
+    <eng>bouskoura</eng>
+  </entry>
+  <entry>
+    <n1>lf9ih bn Sal7</n1>
+    <n2>f9ih bn Sal7</n2>
+    <n3>lf9ih ben sale7</n3>
+    <n4>f9ih ben Salh</n4>
+    <darija_ar>لفقيه بن صالح</darija_ar>
+    <eng>fqih ben saleh</eng>
+  </entry>
+  <entry>
+    <n1>dchira</n1>
+    <n2>dcheira</n2>
+    <n3>dchyra</n3>
+    <darija_ar>دشيرة</darija_ar>
+    <eng>dcheira</eng>
+  </entry>
+  <entry>
+    <n1>wadzm</n1>
+    <n2>wad zem</n2>
+    <n3>ouad zem</n3>
+    <n4>oued zem</n4>
+    <darija_ar>واد زم</darija_ar>
+    <eng>oued zem</eng>
+  </entry>
+  <entry>
+    <n1>9l3a tsraghna</n1>
+    <n2>9el3a t sraghna</n2>
+    <n3>9al3a tsraghna</n3>
+    <n4>kalaa tsraghna</n4>
+    <darija_ar>قلعة ت سراغنة</darija_ar>
+    <eng>kalaa sraghna</eng>
+  </entry>
+  <entry>
+    <n1>sidi sliman</n1>
+    <n2>sidi slimane</n2>
+    <darija_ar>سيدي سليمان</darija_ar>
+    <eng>sidi slimane</eng>
+  </entry>
+  <entry>
+    <n1>rrachidia</n1>
+    <n2>errachidia</n2>
+    <darija_ar>الراشيدية</darija_ar>
+    <eng>errachidia</eng>
+  </entry>
+  <entry>
+    <n1>grsif</n1>
+    <n2>guersif</n2>
+    <n3>garsif</n3>
+    <n4>guarsif</n4>
+    <darija_ar>ڭرسيف</darija_ar>
+    <eng>guercif</eng>
+  </entry>
+  <entry>
+    <n1>wlad tayma</n1>
+    <n2>oulad teima</n2>
+    <n3>ouled teima</n3>
+    <n4>oulad taima</n4>
+    <darija_ar>ولاد تايمة</darija_ar>
+    <eng>oulad teima</eng>
+  </entry>
+  <entry>
+    <n1>ben grir</n1>
+    <n2>bngrir</n2>
+    <n3>bengrir</n3>
+    <n4>ben guerir</n4>
+    <darija_ar>بن ڭرير</darija_ar>
+    <eng>ben guerir</eng>
+  </entry>
+  <entry>
+    <n1>tiflt</n1>
+    <n2>tifelt</n2>
+    <darija_ar>تيفلت</darija_ar>
+    <eng>tifelt</eng>
+  </entry>
+  <entry>
+    <n1>l9li3a</n1>
+    <n2>lqli3a</n2>
+    <n3>la9li3a</n3>
+    <darija_ar>لقليعة</darija_ar>
+    <eng>lqliaa</eng>
+  </entry>
+  <entry>
+    <n1>taroudant</n1>
+    <darija_ar>تارودانت</darija_ar>
+    <eng>taroudant</eng>
+  </entry>
+  <entry>
+    <n1>Sfro</n1>
+    <n2>sfrou</n2>
+    <n3>sefrou</n3>
+    <darija_ar>صفرو</darija_ar>
+    <eng>sefrou</eng>
+  </entry>
+  <entry>
+    <n1>Swira</n1>
+    <n2>SSwira</n2>
+    <n3>souira</n3>
+    <n4>essawira</n4>
+    <darija_ar>الصويرة</darija_ar>
+    <eng>essaouira</eng>
+  </entry>
+  <entry>
+    <n1>fnide9</n1>
+    <n2>lfnide9</n2>
+    <n3>fnid9</n3>
+    <n4>lfnid9</n4>
+    <darija_ar>الفنيدق</darija_ar>
+    <eng>fnideq</eng>
+  </entry>
+  <entry>
+    <n1>sidi 9assem</n1>
+    <n2>sidi 9asm</n2>
+    <n3>sidi 9asem</n3>
+    <darija_ar>سيدي قاسم</darija_ar>
+    <eng>sidi kacem</eng>
+  </entry>
+  <entry>
+    <n1>tiznit</n1>
+    <darija_ar>تيزنيت</darija_ar>
+    <eng>tiznit</eng>
+  </entry>
+  <entry>
+    <n1>TanTan</n1>
+    <n2>Tan Tan</n2>
+    <darija_ar>طانطان</darija_ar>
+    <eng>tantan</eng>
+  </entry>
+  <entry>
+    <n1>warzazat</n1>
+    <n2>ouarzazat</n2>
+    <n3>ouerzazat</n3>
+    <darija_ar>وارززات</darija_ar>
+    <eng>ouarzazate</eng>
+  </entry>
+  <entry>
+    <n1>sou9larb3a</n1>
+    <n2>sou9 lab3a</n2>
+    <darija_ar>سوق لاربعا</darija_ar>
+    <eng>souk el arbaa</eng>
+  </entry>
+  <entry>
+    <n1>youssoufia</n1>
+    <n2>yousoufia</n2>
+    <n3>yosofia</n3>
+    <n4>lyousoufia</n4>
+    <darija_ar>اليوسوفية</darija_ar>
+    <eng>youssoufia</eng>
+  </entry>
+  <entry>
+    <n1>l8rawiyin</n1>
+    <n2>lahraouiyine</n2>
+    <n3>la8rawiyin</n3>
+    <darija_ar>لهراويين</darija_ar>
+    <eng>lahraouyine</eng>
+  </entry>
+  <entry>
+    <n1>martil</n1>
+    <darija_ar>مرتيل</darija_ar>
+    <eng>martil</eng>
+  </entry>
+  <entry>
+    <n1>3in 7rrouda</n1>
+    <n2>3in 7arouda</n2>
+    <n3>3ayn 7errouda</n3>
+    <darija_ar>عين حرّودة</darija_ar>
+    <eng>ain harrouda</eng>
+  </entry>
+  <entry>
+    <n1>Skhirat</n1>
+    <n2>SSkhirat</n2>
+    <darija_ar>صخيرات</darija_ar>
+    <eng>Skhirat</eng>
+  </entry>
+  <entry>
+    <n1>wazzan</n1>
+    <n2>ouazzan</n2>
+    <darija_ar>وزّان</darija_ar>
+    <eng>ouazzane</eng>
+  </entry>
+  <entry>
+    <n1>bnsliman</n1>
+    <n2>bensliman</n2>
+    <n3>benslimane</n3>
+    <n4>ben sliman</n4>
+    <darija_ar>بنسليمان</darija_ar>
+    <eng>benslimane</eng>
+  </entry>
+  <entry>
+    <n1>l7ouceima</n1>
+    <n2>lhouceima</n2>
+    <n3>l7ousayma</n3>
+    <n4>l7oucima</n4>
+    <darija_ar>لحسيمة</darija_ar>
+    <eng>al houceima</eng>
+  </entry>
+  <entry>
+    <n1>bni nsar</n1>
+    <n2>beni ansar</n2>
+    <n3>beni nsar</n3>
+    <n4>bni ansar</n4>
+    <darija_ar>بني نصار</darija_ar>
+    <eng>beni ansar</eng>
+  </entry>
+  <entry>
+    <n1>mdye9</n1>
+    <n2>lmDye9</n2>
+    <n3>lmdyeq</n3>
+    <n4>mdyeq</n4>
+    <darija_ar>المضيق</darija_ar>
+    <eng>mdiq</eng>
+  </entry>
+  <entry>
+    <n1>sidi bennour</n1>
+    <n2>sidibnnour</n2>
+    <n3>sidi benour</n3>
+    <n4>sidi benor</n4>
+    <darija_ar>سيدي بنّور</darija_ar>
+    <eng>sidi bennour</eng>
+  </entry>
+  <entry>
+    <n1>midelt</n1>
+    <n2>midlt</n2>
+    <darija_ar>ميدلت</darija_ar>
+    <eng>midelt</eng>
+  </entry>
+  <entry>
+    <n1>azro</n1>
+    <n2>azrou</n2>
+    <darija_ar>أزرو</darija_ar>
+    <eng>azrou</eng>
+  </entry>
+  <entry>
+    <n1>blasa</n1>
+    <darija_ar>بلاصة</darija_ar>
+    <eng>place</eng>
+  </entry>
+  <entry>
+    <n1>jam3lfna</n1>
+    <n2>jam3 lafna</n2>
+    <darija_ar>جامع لفنا</darija_ar>
+    <eng>Jemaa el-Fnaa square</eng>
+  </entry>
+  <entry>
+    <n1>khariTa</n1>
+    <n2>5ariTa</n2>
+    <darija_ar>خارطة</darija_ar>
+    <eng>map</eng>
+  </entry>
+  <entry>
+    <n1>l3alam</n1>
+    <n2>3alam</n2>
+    <darija_ar>لعالم</darija_ar>
+    <eng>world</eng>
+  </entry>
+  <entry>
+    <n1>sbiTar</n1>
+    <darija_ar>سبيطار</darija_ar>
+    <eng>hospital</eng>
+  </entry>
+  <entry>
+    <n1>boSTa</n1>
+    <n2>bouSTa</n2>
+    <n3>lboSTa</n3>
+    <darija_ar>بوصطة</darija_ar>
+    <eng>post office</eng>
+  </entry>
+  <entry>
+    <n1>lkharij</n1>
+    <n2>l5arij</n2>
+    <darija_ar>لخاريج</darija_ar>
+    <eng>abroad</eng>
+  </entry>
+  <entry>
+    <n1>maTar</n1>
+    <darija_ar>مطار</darija_ar>
+    <eng>airport</eng>
+  </entry>
+  <entry>
+    <n1>faDa2</n1>
+    <darija_ar>فضاء</darija_ar>
+    <eng>space</eng>
+  </entry>
+  <entry>
+    <n1>mrrikh</n1>
+    <n2>lmrrikh</n2>
+    <n3>marrikh</n3>
+    <darija_ar>مرّيخ</darija_ar>
+    <eng>mars</eng>
+  </entry>
+  <entry>
+    <n1>9amar</n1>
+    <n2>l9amar</n2>
+    <n3>qamar</n3>
+    <darija_ar>قمر</darija_ar>
+    <eng>moon</eng>
+  </entry>
+  <entry>
+    <n1>3onwan</n1>
+    <darija_ar>عنوان</darija_ar>
+    <eng>address</eng>
+  </entry>
+  <entry>
+    <n1>finmma</n1>
+    <n2>finemma</n2>
+    <n3>finamma</n3>
+    <darija_ar>فينمّا</darija_ar>
+    <eng>anywhere</eng>
+  </entry>
+  <entry>
+    <n1>llor</n1>
+    <n2>llour</n2>
+    <darija_ar>اللور</darija_ar>
+    <eng>back</eng>
+  </entry>
+  <entry>
+    <n1>gddam</n1>
+    <n2>goddam</n2>
+    <darija_ar>ڭدّام</darija_ar>
+    <eng>front</eng>
+  </entry>
+  <entry>
+    <n1>mkhbaza</n1>
+    <n2>makhbaza</n2>
+    <darija_ar>مخبزة</darija_ar>
+    <eng>bakery</eng>
+  </entry>
+  <entry>
+    <n1>t7t</n1>
+    <n2>ta7t</n2>
+    <n3>te7t</n3>
+    <darija_ar>تحت</darija_ar>
+    <eng>below</eng>
+  </entry>
+  <entry>
+    <n1>7odoud</n1>
+    <darija_ar>حدود</darija_ar>
+    <eng>borders</eng>
+  </entry>
+  <entry>
+    <n1>frmasian</n1>
+    <n2>frmacian</n2>
+    <n3>frmasyan</n3>
+    <darija_ar>فرماسيان</darija_ar>
+    <eng>pharmacy</eng>
+  </entry>
+  <entry>
+    <n1>firma</n1>
+    <darija_ar>فيرمة</darija_ar>
+    <eng>farm</eng>
+  </entry>
+  <entry>
+    <n1>chr9</n1>
+    <n2>cher9</n2>
+    <n3>char9</n3>
+    <darija_ar>شرق</darija_ar>
+    <eng>east</eng>
+  </entry>
+  <entry>
+    <n1>ghrb</n1>
+    <n2>gherb</n2>
+    <n3>gharb</n3>
+    <darija_ar>غرب</darija_ar>
+    <eng>west</eng>
+  </entry>
+  <entry>
+    <n1>chamal</n1>
+    <darija_ar>شمال</darija_ar>
+    <eng>north</eng>
+  </entry>
+  <entry>
+    <n1>janoub</n1>
+    <n2>janob</n2>
+    <darija_ar>جنوب</darija_ar>
+    <eng>south</eng>
+  </entry>
+  <entry>
+    <n1>mnTa9a</n1>
+    <n2>manTa9a</n2>
+    <n3>menTa9a</n3>
+    <darija_ar>منطقة</darija_ar>
+    <eng>region</eng>
+  </entry>
+  <entry>
+    <n1>ma7TTa</n1>
+    <n2>ma7aTTa</n2>
+    <n3>ma7eTTa</n3>
+    <n4>mahtta</n4>
+    <darija_ar>محطة</darija_ar>
+    <eng>station</eng>
+  </entry>
+  <entry>
+    <n1>7anout</n1>
+    <n2>7anot</n2>
+    <darija_ar>حانوت</darija_ar>
+    <eng>shop</eng>
+  </entry>
+  <entry>
+    <n1>chari3</n1>
+    <n2>chaari3</n2>
+    <darija_ar>شارع</darija_ar>
+    <eng>street</eng>
+  </entry>
+  <entry>
+    <n1>Tri9</n1>
+    <n2>Tre9</n2>
+    <darija_ar>طريق</darija_ar>
+    <eng>road</eng>
+  </entry>
+  <entry>
+    <n1>lotorot</n1>
+    <n2>lotorout</n2>
+    <darija_ar>لوطوروت</darija_ar>
+    <eng>highway</eng>
+  </entry>
+  <entry>
+    <n1>sikteur</n1>
+    <n2>siktour</n2>
+    <darija_ar>سيكتور</darija_ar>
+    <eng>neighborhood</eng>
+  </entry>
+  <entry>
+    <n1>saa7a</n1>
+    <n2>sa7a</n2>
+    <n3>saaha</n3>
+    <darija_ar>ساحة</darija_ar>
+    <eng>square</eng>
+  </entry>
+  <entry>
+    <n1>9hwa</n1>
+    <n2>9ahwa</n2>
+    <n3>9ehwa</n3>
+    <n4>9a8wa</n4>
+    <darija_ar>قهوة</darija_ar>
+    <eng>coffee shop</eng>
+  </entry>
+  <entry>
+    <n1>borj</n1>
+    <darija_ar>برج</darija_ar>
+    <eng>tower</eng>
+  </entry>
+  <entry>
+    <n1>mktaba</n1>
+    <n2>mektaba</n2>
+    <n3>maktaba</n3>
+    <darija_ar>مكتابة</darija_ar>
+    <eng>library</eng>
+  </entry>
+  <entry>
+    <n1>otil</n1>
+    <n2>hotel</n2>
+    <n3>otel</n3>
+    <darija_ar>أُوطيل</darija_ar>
+    <eng>hotel</eng>
+  </entry>
+  <entry>
+    <n1>klinik</n1>
+    <n2>clinique</n2>
+    <darija_ar>كلينيك</darija_ar>
+    <eng>clinic</eng>
+  </entry>
+  <entry>
+    <n1>pisin</n1>
+    <n2>picin</n2>
+    <n3>piscine</n3>
+    <darija_ar>پيسين</darija_ar>
+    <eng>swimming pool</eng>
+  </entry>
+  <entry>
+    <n1>tritwar</n1>
+    <n2>trotwar</n2>
+    <n3>tritouar</n3>
+    <n4>trotouar</n4>
+    <darija_ar>طريطوار</darija_ar>
+    <eng>sidewalk</eng>
+  </entry>
+  <entry>
+    <n1>ttija8</n1>
+    <n2>ittija8</n2>
+    <n3>ttijah</n3>
+    <n4>ittijah</n4>
+    <darija_ar>اتجاه</darija_ar>
+    <eng>direction</eng>
+  </entry>
+  <entry>
+    <n1>limn</n1>
+    <n2>limen</n2>
+    <n3>liman</n3>
+    <darija_ar>ليمن</darija_ar>
+    <eng>right</eng>
+  </entry>
+  <entry>
+    <n1>lisr</n1>
+    <n2>lisser</n2>
+    <n3>lissar</n3>
+    <darija_ar>ليسر</darija_ar>
+    <eng>left</eng>
+  </entry>
+  <entry>
+    <n1>masafa</n1>
+    <n2>massafa</n2>
+    <darija_ar>مسافة</darija_ar>
+    <eng>distance</eng>
+  </entry>
+  <entry>
+    <n1>misa7a</n1>
+    <n2>misaa7a</n2>
+    <n3>misaha</n3>
+    <darija_ar>مساحة</darija_ar>
+    <eng>area</eng>
+  </entry>
+  <entry>
+    <n1>sifara</n1>
+    <darija_ar>سفارة</darija_ar>
+    <eng>embassy</eng>
+  </entry>
+  <entry>
+    <n1>saidia</n1>
+    <n2>saaidia</n2>
+    <darija_ar>سعيدية</darija_ar>
+    <eng>saidia</eng>
+  </entry>
+</corpus>

@@ -1,0 +1,18 @@
+This folder contains the codes that display the respective pages in the 'Grammar' section of the site. 
+All files present in this folder contain the same codes for the site layout, with varying differences for some of the pages. 
+The code starts with the main layout of the page, containing the same layout as the rest of the site, with a navigation bar, 
+and links to other parts of the site. Some of the items on the navigation bar are includes further options when hovered over, 
+in the style of a dropdown menu. 
+In the main page portion, contains the header, based on the name of the file. It would display a table. 
+The content of the table would then be retrieved from the database with the name of the file and then printed on the page. 
+Based on the file, it would contain varying amounts of columns in the table. For the files 'adjectives.ejs', 'adverbs.ejs', 
+'nouns.ejs', 'prepositions.ejs', 'pronouns.ejs', and 'verbs.ejs' can display up to 9 columns with the following headers: 
+'English', 'Arabic Darija', 'Form 1', 'Form 2', 'Form 3', 'Form 4', 'Form 5', and 'Form 6'. 
+For the files 'conjug_present.ejs', and 'conjug_past.ejs', the table will display 9 columns with the following headers: 
+'root', 'ana (I)', 'nta (you - male)', 'nti (you - female)', 'howa (he)', 'hia (she)', '7na (we)', 'ntoma (you - plural)', 
+and 'homa (they)'. The file 'definite_indefinite.ejs' will only have 2 columns in the table with the headers 
+'Indefinte Article Examples' and 'Definite Article Examples'.  'imperatives.ejs' will have 4 columns with the headers 
+'root', 'nta (you - male)', 'nti (you - female)' and 'ntoma (you - plural)', 'masculin_feminine_plural.ejs' also 4 with the 
+headers 'Masculine Singular', 'Masculine Plural',	'Feminine Singular', and 'Feminine Plural'. 'verb-to-noun.ejs' will 
+have two columns in the table with the headers 'Verb in Base Form', and 'Noun form of the verb'.
+At the end the codes for the footer includes some details about the project and is also the same throughout the site.

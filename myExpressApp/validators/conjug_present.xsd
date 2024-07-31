@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--This file is used for the validation of adding data in an xml file for 'conjug_present' in 'grammar' in the database. -->
+
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <xsd:element name="corpus">
+  <!-- Define the corpus element -->
+   <xsd:element name="corpus">
     <xsd:complexType>
       <xsd:sequence>
         <xsd:element ref="entry" maxOccurs="unbounded"/>

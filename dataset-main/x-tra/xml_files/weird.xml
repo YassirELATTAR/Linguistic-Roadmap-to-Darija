@@ -1,0 +1,515 @@
+<?xml version="1.0" ?>
+<corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../../../xsds/darija_most.xsd">
+  <entry>
+    <n1>t3nfij</n1>
+    <n2>t3anfij</n2>
+    <n3>t3enfij</n3>
+    <darija_ar>تعنفيج</darija_ar>
+    <eng>inconvenience</eng>
+  </entry>
+  <entry>
+    <n1>tbrziT</n1>
+    <n2>tberziT</n2>
+    <n3>tbarziT</n3>
+    <n4>ttbrziT</n4>
+    <darija_ar>تبرزيط</darija_ar>
+    <eng>bother</eng>
+  </entry>
+  <entry>
+    <n1>twichia</n1>
+    <darija_ar>تويشية</darija_ar>
+    <eng>thing</eng>
+  </entry>
+  <entry>
+    <n1>l3iba</n1>
+    <n2>l3ayba</n2>
+    <n3>l3aiba</n3>
+    <darija_ar>لعيبة</darija_ar>
+    <eng>thing</eng>
+  </entry>
+  <entry>
+    <n1>l3amala</n1>
+    <darija_ar>لعمالة</darija_ar>
+    <eng>friend</eng>
+  </entry>
+  <entry>
+    <n1>tbl7is</n1>
+    <n2>tbel7is</n2>
+    <n3>tbal7is</n3>
+    <n4>tbal7iss</n4>
+    <darija_ar>تبلحيس</darija_ar>
+    <eng>flattery</eng>
+  </entry>
+  <entry>
+    <n1>Tnz</n1>
+    <n2>Tanz</n2>
+    <n3>Tenz</n3>
+    <darija_ar>طنز</darija_ar>
+    <eng>mockery</eng>
+  </entry>
+  <entry>
+    <n1>z3fan</n1>
+    <n2>za3fan</n2>
+    <n3>ze3fan</n3>
+    <darija_ar>زعفان</darija_ar>
+    <eng>angry</eng>
+  </entry>
+  <entry>
+    <n1>ka3i</n1>
+    <darija_ar>كاعي</darija_ar>
+    <eng>angry</eng>
+  </entry>
+  <entry>
+    <n1>l8imri</n1>
+    <n2>lhimri</n2>
+    <darija_ar>لهيمري</darija_ar>
+    <eng>hunger</eng>
+  </entry>
+  <entry>
+    <n1>m9rach</n1>
+    <n2>m9raj</n2>
+    <n3>mo9rach</n3>
+    <n4>mo9raj</n4>
+    <darija_ar>مقراش</darija_ar>
+    <eng>tea kettle</eng>
+  </entry>
+  <entry>
+    <n1>3zzi</n1>
+    <n2>3azzi</n2>
+    <n3>3ezzi</n3>
+    <darija_ar>عزّي</darija_ar>
+    <eng>black</eng>
+  </entry>
+  <entry>
+    <n1>b7alma8okdaya</n1>
+    <n2>b7almahokdaya</n2>
+    <n3>kifmab7almahokdaya</n3>
+    <n4>kifmab7alma8okdaya</n4>
+    <darija_ar>بحالماهوكدايا</darija_ar>
+    <eng>like this</eng>
+  </entry>
+  <entry>
+    <n1>Tbbouzi</n1>
+    <n2>Tbozi</n2>
+    <n3>Tabozi</n3>
+    <n4>Tebbozi</n4>
+    <darija_ar>طبّوزي</darija_ar>
+    <eng>fat</eng>
+  </entry>
+  <entry>
+    <n1>tkhrbi9</n1>
+    <n2>tkharbi9</n2>
+    <n3>tkherbi9</n3>
+    <n4>tkharbiq</n4>
+    <darija_ar>تخربيق</darija_ar>
+    <eng>nonsense</eng>
+  </entry>
+  <entry>
+    <n1>3zwa</n1>
+    <n2>3zawi</n2>
+    <darija_ar>عزوا</darija_ar>
+    <eng>man</eng>
+  </entry>
+  <entry>
+    <n1>kbchlaba9ich</n1>
+    <n2>kobchlaba9ich</n2>
+    <n3>kobbchlabaqich</n3>
+    <n4>kobbchlaba9ich</n4>
+    <darija_ar>كبشلاباقيش</darija_ar>
+    <eng>fill my cup</eng>
+  </entry>
+  <entry>
+    <n1>law3lm</n1>
+    <n2>llaw3lm</n2>
+    <n3>laho3lm</n3>
+    <n4>lahoa3lam</n4>
+    <darija_ar>الله أعلم</darija_ar>
+    <eng>i do not know</eng>
+  </entry>
+  <entry>
+    <n1>lay3miha lik</n1>
+    <darija_ar>لايعميها ليك</darija_ar>
+    <eng>i warn you</eng>
+  </entry>
+  <entry>
+    <n1>brbbi</n1>
+    <n2>brebbi</n2>
+    <n3>brabbi</n3>
+    <darija_ar>بربّي</darija_ar>
+    <eng>i swear</eng>
+  </entry>
+  <entry>
+    <n1>awdi</n1>
+    <n2>awddi</n2>
+    <darija_ar>أودي</darija_ar>
+    <eng>whatever</eng>
+  </entry>
+  <entry>
+    <n1>awdi</n1>
+    <n2>awddi</n2>
+    <darija_ar>أودي</darija_ar>
+    <eng>anyway</eng>
+  </entry>
+  <entry>
+    <n1>kimma kan l7al</n1>
+    <n2>kimmakan l7al</n2>
+    <n3>kima kan l7al</n3>
+    <n4>kimakan l7al</n4>
+    <darija_ar>كيمّا كان لحال</darija_ar>
+    <eng>anyway</eng>
+  </entry>
+  <entry>
+    <n1>bz9oul</n1>
+    <n2>bz9ol</n2>
+    <n3>bez9ol</n3>
+    <n4>baz9ol</n4>
+    <darija_ar>بزقول</darija_ar>
+    <eng>child</eng>
+  </entry>
+  <entry>
+    <n1>chwikkik</n1>
+    <n2>chwia</n2>
+    <darija_ar>شويكّيك</darija_ar>
+    <eng>a bit</eng>
+  </entry>
+  <entry>
+    <n1>T8lla</n1>
+    <n2>Thalla</n2>
+    <n3>T8alla</n3>
+    <n4>T8ella</n4>
+    <darija_ar>طهلّا</darija_ar>
+    <eng>bye</eng>
+  </entry>
+  <entry>
+    <n1>3rram</n1>
+    <n2>3erram</n2>
+    <n3>3arram</n3>
+    <darija_ar>عرّام</darija_ar>
+    <eng>many</eng>
+  </entry>
+  <entry>
+    <n1>ewa</n1>
+    <darija_ar>إوا</darija_ar>
+    <eng>well</eng>
+  </entry>
+  <entry>
+    <n1>fchkl</n1>
+    <n2>fchkel</n2>
+    <n3>fchkal</n3>
+    <n4>fchkeel</n4>
+    <darija_ar>فشكل</darija_ar>
+    <eng>special</eng>
+  </entry>
+  <entry>
+    <n1>fchkl</n1>
+    <n2>fchkel</n2>
+    <n3>fchkal</n3>
+    <n4>fchkeel</n4>
+    <darija_ar>فشكل</darija_ar>
+    <eng>peculiar</eng>
+  </entry>
+  <entry>
+    <n1>gharib</n1>
+    <darija_ar>غريب</darija_ar>
+    <eng>weird</eng>
+  </entry>
+  <entry>
+    <n1>sghikkrin</n1>
+    <darija_ar>سغيكّرين</darija_ar>
+    <eng>tiny</eng>
+  </entry>
+  <entry>
+    <n1>tfrnisa</n1>
+    <n2>tfernisa</n2>
+    <n3>tfarnisa</n3>
+    <darija_ar>تفرنيسة</darija_ar>
+    <eng>smile</eng>
+  </entry>
+  <entry>
+    <n1>bz9oul</n1>
+    <n2>bz9ol</n2>
+    <darija_ar>بزقول</darija_ar>
+    <eng>baby</eng>
+  </entry>
+  <entry>
+    <n1>br8och</n1>
+    <n2>bar8ouch</n2>
+    <n3>barhouch</n3>
+    <n4>barhoch</n4>
+    <darija_ar>برهوش</darija_ar>
+    <eng>kid</eng>
+  </entry>
+  <entry>
+    <n1>tbznisa</n1>
+    <n2>tbeznisa</n2>
+    <n3>tbaznisa</n3>
+    <darija_ar>تبزنيسة</darija_ar>
+    <eng>deal</eng>
+  </entry>
+  <entry>
+    <n1>t8jaj</n1>
+    <n2>ta8jaj</n2>
+    <n3>tahjaj</n3>
+    <darija_ar>تهجاج</darija_ar>
+    <eng>noise</eng>
+  </entry>
+  <entry>
+    <n1>9oz9oza7</n1>
+    <n2>9ous9oza7</n2>
+    <n3>9aws9oza7</n3>
+    <n4>9aws 9oza7</n4>
+    <darija_ar>قوس قزح</darija_ar>
+    <eng>rainbow</eng>
+  </entry>
+  <entry>
+    <n1>3zwa</n1>
+    <darija_ar>عزوا</darija_ar>
+    <eng>well done</eng>
+  </entry>
+  <entry>
+    <n1>Saa7a</n1>
+    <darija_ar>صاحا</darija_ar>
+    <eng>well done</eng>
+  </entry>
+  <entry>
+    <n1>m3elem</n1>
+    <n2>wa3r</n2>
+    <darija_ar>معلم</darija_ar>
+    <eng>great job</eng>
+  </entry>
+  <entry>
+    <n1>mwrre9</n1>
+    <n2>mwerre9</n2>
+    <darija_ar>مورّق</darija_ar>
+    <eng>noticeable</eng>
+  </entry>
+  <entry>
+    <n1>3wachr</n1>
+    <n2>3wacher</n2>
+    <darija_ar>عواشر</darija_ar>
+    <eng>feasts</eng>
+  </entry>
+  <entry>
+    <n1>naDi</n1>
+    <n2>naaDi</n2>
+    <darija_ar>ناضي</darija_ar>
+    <eng>excellent</eng>
+  </entry>
+  <entry>
+    <n1>8nnina</n1>
+    <n2>8ennina</n2>
+    <n3>8annina</n3>
+    <darija_ar>هنّينا</darija_ar>
+    <eng>be quiet</eng>
+  </entry>
+  <entry>
+    <n1>fog chchb3a</n1>
+    <darija_ar>فوڭ الشبعة</darija_ar>
+    <eng>extra</eng>
+  </entry>
+  <entry>
+    <n1>dyal lmchkhara</n1>
+    <n2>dyal lmechkhara</n2>
+    <darija_ar>ديال لمشخارة</darija_ar>
+    <eng>ridiculous</eng>
+  </entry>
+  <entry>
+    <n1>chchann TTann</n1>
+    <darija_ar>الشانّ الطانّ</darija_ar>
+    <eng>swiftly</eng>
+  </entry>
+  <entry>
+    <n1>ml3ouba</n1>
+    <n2>ml3oba</n2>
+    <darija_ar>ملعوبا</darija_ar>
+    <eng>feasible</eng>
+  </entry>
+  <entry>
+    <n1>n7ila</n1>
+    <darija_ar>نحيلة</darija_ar>
+    <eng>swift</eng>
+  </entry>
+  <entry>
+    <n1>8rrbo lia</n1>
+    <n2>hrebt</n2>
+    <n3>lherba</n3>
+    <n4>hrrbni</n4>
+    <darija_ar>هرّبو ليا</darija_ar>
+    <eng>blow my mind</eng>
+  </entry>
+  <entry>
+    <n1>Dbber 3la</n1>
+    <darija_ar>ضبّر علا</darija_ar>
+    <eng>found</eng>
+  </entry>
+  <entry>
+    <n1>khrrej 3inih</n1>
+    <darija_ar>خرّج عينيه</darija_ar>
+    <eng>stare</eng>
+  </entry>
+  <entry>
+    <n1>jb8a</n1>
+    <n2>jab8a</n2>
+    <n3>jeb8a</n3>
+    <n4>jbha</n4>
+    <darija_ar>جبهة</darija_ar>
+    <eng>bold</eng>
+  </entry>
+  <entry>
+    <n1>snTi7a</n1>
+    <n2>senTi7a</n2>
+    <n3>SnTi7a</n3>
+    <darija_ar>سنطيحة</darija_ar>
+    <eng>bold</eng>
+  </entry>
+  <entry>
+    <n1>mrigl</n1>
+    <darija_ar>مريڭل</darija_ar>
+    <eng>tricky</eng>
+  </entry>
+  <entry>
+    <n1>blan</n1>
+    <n2>blaan</n2>
+    <darija_ar>بلان</darija_ar>
+    <eng>a good deal</eng>
+  </entry>
+  <entry>
+    <n1>wakwakk</n1>
+    <n2>wakwak</n2>
+    <darija_ar>واكواكّ</darija_ar>
+    <eng>oh god</eng>
+  </entry>
+  <entry>
+    <n1>makat9chcherch</n1>
+    <n2>makat9cherch</n2>
+    <n3>makat9echerch</n3>
+    <n4>makat9echcharch</n4>
+    <darija_ar>ماكاتقشّرش</darija_ar>
+    <eng>nonpeelable</eng>
+  </entry>
+  <entry>
+    <n1>a7</n1>
+    <darija_ar>أح</darija_ar>
+    <eng>oh</eng>
+  </entry>
+  <entry>
+    <n1>lays3d lmasa</n1>
+    <darija_ar>الله يسعد لماسا</darija_ar>
+    <eng>good evening</eng>
+  </entry>
+  <entry>
+    <n1>jlakha</n1>
+    <n2>jla5a</n2>
+    <darija_ar>جلاخا</darija_ar>
+    <eng>bad guy</eng>
+  </entry>
+  <entry>
+    <n1>tl9na</n1>
+    <n2>tle9na</n2>
+    <n3>tla9na</n3>
+    <darija_ar>تلقنا</darija_ar>
+    <eng>harry up</eng>
+  </entry>
+  <entry>
+    <n1>serbina</n1>
+    <n2>serbi</n2>
+    <n3>sarbina</n3>
+    <darija_ar>سربينا</darija_ar>
+    <eng>harry up</eng>
+  </entry>
+  <entry>
+    <n1>ahya</n1>
+    <darija_ar>أهيا</darija_ar>
+    <eng>oh</eng>
+  </entry>
+  <entry>
+    <n1>sat</n1>
+    <n2>l3chir</n2>
+    <n3>3chiri</n3>
+    <darija_ar>الصاط</darija_ar>
+    <eng>homie</eng>
+  </entry>
+  <entry>
+    <n1>fri3 rass</n1>
+    <n2>sda3</n2>
+    <n3>sda3 rass</n3>
+    <darija_ar>فريع الراسّ</darija_ar>
+    <eng>distubance</eng>
+  </entry>
+  <entry>
+    <n1>khwadri</n1>
+    <n2>khawa</n2>
+    <n3>5wadri</n3>
+    <n4>5awa</n4>
+    <darija_ar>خوادري</darija_ar>
+    <eng>brother</eng>
+  </entry>
+  <entry>
+    <n1>khwadria</n1>
+    <n2>5wadria</n2>
+    <darija_ar>خوادرية</darija_ar>
+    <eng>sister</eng>
+  </entry>
+  <entry>
+    <n1>thela</n1>
+    <n2>thella</n2>
+    <n3>t8ala</n3>
+    <n4>thala</n4>
+    <darija_ar>طهلا</darija_ar>
+    <eng>see you</eng>
+  </entry>
+  <entry>
+    <n1>mafih maytchaf</n1>
+    <darija_ar>مافيه مايتشاف</darija_ar>
+    <eng>really bad</eng>
+  </entry>
+  <entry>
+    <n1>mafih maytlbbe9</n1>
+    <darija_ar>مافيه مايتلبّق</darija_ar>
+    <eng>really bad</eng>
+  </entry>
+  <entry>
+    <n1>lays3d SSaba7</n1>
+    <n2>lays3d Saba7</n2>
+    <n3>lays3dSSaba7</n3>
+    <n4>lays3dssaba7</n4>
+    <darija_ar>الله يسعد الصباح</darija_ar>
+    <eng>good morning</eng>
+  </entry>
+  <entry>
+    <n1>lays3d lmasa</n1>
+    <n2>lays3dlmasa</n2>
+    <n3>lah is3d lmasa</n3>
+    <n4>lah is3ed lmasa</n4>
+    <darija_ar>الله يسعد لماسا</darija_ar>
+    <eng>good night</eng>
+  </entry>
+  <entry>
+    <n1>TTali3a</n1>
+    <darija_ar>الطليعة</darija_ar>
+    <eng>taunt</eng>
+  </entry>
+  <entry>
+    <n1>hreb lih</n1>
+    <n2>8reb lih</n2>
+    <n3>8reb li8</n3>
+    <n4>hreb li8</n4>
+    <darija_ar>هرب ليه</darija_ar>
+    <eng>he lost his mind</eng>
+  </entry>
+  <entry>
+    <n1>9chchabto was3a</n1>
+    <n2>9chabto was3a</n2>
+    <n3>9echabto was3a</n3>
+    <n4>9echchabto was3a</n4>
+    <darija_ar>قشّابتو واسعة</darija_ar>
+    <eng>He has a good sense of humor</eng>
+  </entry>
+  <entry>
+    <n1>tta zfta</n1>
+    <n2>7tta zfta</n2>
+    <darija_ar>تا زفتة</darija_ar>
+    <eng>nothing</eng>
+  </entry>
+</corpus>

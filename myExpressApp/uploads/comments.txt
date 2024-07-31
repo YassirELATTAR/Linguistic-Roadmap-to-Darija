@@ -1,1 +1,4 @@
-This folder contains the XML that are validated and uploaded to the server 
+This folder contains the XML files that are validated and uploaded to the server.
+The files are first validated agains the XSDs in the 'validators' folder.
+If they are valid, they are saved in this folder to be submitted to the database.
+Otherwise, they are removing and not uploaded.

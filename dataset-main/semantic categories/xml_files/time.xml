@@ -1,0 +1,481 @@
+<?xml version="1.0" ?>
+<corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../../../xsds/darija_most.xsd">
+  <entry>
+    <n1>tania</n1>
+    <n2>thania</n2>
+    <darija_ar>تانية</darija_ar>
+    <eng>second</eng>
+  </entry>
+  <entry>
+    <n1>d9i9a</n1>
+    <n2>daqiqa</n2>
+    <n3>da9i9a</n3>
+    <darija_ar>دقيقة</darija_ar>
+    <eng>minute</eng>
+  </entry>
+  <entry>
+    <n1>sa3a</n1>
+    <darija_ar>ساعة</darija_ar>
+    <eng>hour</eng>
+  </entry>
+  <entry>
+    <n1>yawm</n1>
+    <n2>youm</n2>
+    <n3>nhar</n3>
+    <darija_ar>يوم</darija_ar>
+    <eng>day</eng>
+  </entry>
+  <entry>
+    <n1>lbar7</n1>
+    <n2>lbare7</n2>
+    <n3>lbareh</n3>
+    <n4>lbarh</n4>
+    <darija_ar>لبارح</darija_ar>
+    <eng>yesterday</eng>
+  </entry>
+  <entry>
+    <n1>daba</n1>
+    <n2>drok</n2>
+    <darija_ar>دابا</darija_ar>
+    <eng>now</eng>
+  </entry>
+  <entry>
+    <n1>lyom</n1>
+    <n2>liom</n2>
+    <n3>lioma</n3>
+    <n4>lyoma</n4>
+    <darija_ar>ليوم</darija_ar>
+    <eng>today</eng>
+  </entry>
+  <entry>
+    <n1>ghdda</n1>
+    <n2>ghedda</n2>
+    <n3>ghadda</n3>
+    <darija_ar>غدّا</darija_ar>
+    <eng>tomorrow</eng>
+  </entry>
+  <entry>
+    <n1>wellbar7</n1>
+    <n2>wallbare7</n2>
+    <n3>wllbare7</n3>
+    <darija_ar>ولّبارح</darija_ar>
+    <eng>the day before yesterday</eng>
+  </entry>
+  <entry>
+    <n1>b3d ghdda</n1>
+    <n2>ba3d ghdda</n2>
+    <n3>be3d ghdda</n3>
+    <darija_ar>بعد غدّا</darija_ar>
+    <eng>the day after tomorrow</eng>
+  </entry>
+  <entry>
+    <n1>simana</n1>
+    <n2>semana</n2>
+    <darija_ar>سيمانة</darija_ar>
+    <eng>week</eng>
+  </entry>
+  <entry>
+    <n1>ch8r</n1>
+    <n2>ch8ar</n2>
+    <n3>chher</n3>
+    <n4>chhar</n4>
+    <darija_ar>شهر</darija_ar>
+    <eng>month</eng>
+  </entry>
+  <entry>
+    <n1>3am</n1>
+    <darija_ar>عام</darija_ar>
+    <eng>year</eng>
+  </entry>
+  <entry>
+    <n1>9rn</n1>
+    <n2>9arn</n2>
+    <n3>9ern</n3>
+    <n4>qarn</n4>
+    <darija_ar>قرن</darija_ar>
+    <eng>century</eng>
+  </entry>
+  <entry>
+    <n1>tnin</n1>
+    <n2>ttnin</n2>
+    <darija_ar>تنين</darija_ar>
+    <eng>monday</eng>
+  </entry>
+  <entry>
+    <n1>tlat</n1>
+    <n2>ttlat</n2>
+    <darija_ar>تلات</darija_ar>
+    <eng>tuesday</eng>
+  </entry>
+  <entry>
+    <n1>larb3</n1>
+    <n2>larba3</n2>
+    <n3>larbe3</n3>
+    <darija_ar>لاربع</darija_ar>
+    <eng>wednesday</eng>
+  </entry>
+  <entry>
+    <n1>lkhmis</n1>
+    <n2>l5miss</n2>
+    <n3>lakhmis</n3>
+    <n4>lekhmis</n4>
+    <darija_ar>لخميس</darija_ar>
+    <eng>thursday</eng>
+  </entry>
+  <entry>
+    <n1>jm3a</n1>
+    <n2>jam3a</n2>
+    <n3>jem3a</n3>
+    <n4>jjm3a</n4>
+    <darija_ar>جمعة</darija_ar>
+    <eng>friday</eng>
+  </entry>
+  <entry>
+    <n1>sbt</n1>
+    <n2>ssbt</n2>
+    <n3>sabt</n3>
+    <n4>ssebt</n4>
+    <darija_ar>سبت</darija_ar>
+    <eng>saturday</eng>
+  </entry>
+  <entry>
+    <n1>l7d</n1>
+    <n2>l7ed</n2>
+    <n3>l7add</n3>
+    <n4>l7edd</n4>
+    <darija_ar>لحد</darija_ar>
+    <eng>sunday</eng>
+  </entry>
+  <entry>
+    <n1>wikand</n1>
+    <n2>lwikand</n2>
+    <n3>weekend</n3>
+    <n4>lweekend</n4>
+    <darija_ar>ويكاند</darija_ar>
+    <eng>weekend</eng>
+  </entry>
+  <entry>
+    <n1>yanayir</n1>
+    <n2>yanayr</n2>
+    <darija_ar>يناير</darija_ar>
+    <eng>january</eng>
+  </entry>
+  <entry>
+    <n1>fibrayr</n1>
+    <n2>fibrayer</n2>
+    <darija_ar>فبراير</darija_ar>
+    <eng>february</eng>
+  </entry>
+  <entry>
+    <n1>mars</n1>
+    <darija_ar>مارس</darija_ar>
+    <eng>march</eng>
+  </entry>
+  <entry>
+    <n1>abril</n1>
+    <n2>avril</n2>
+    <darija_ar>أبريل</darija_ar>
+    <eng>april</eng>
+  </entry>
+  <entry>
+    <n1>may</n1>
+    <darija_ar>ماي</darija_ar>
+    <eng>may</eng>
+  </entry>
+  <entry>
+    <n1>yonyo</n1>
+    <darija_ar>يونيو</darija_ar>
+    <eng>june</eng>
+  </entry>
+  <entry>
+    <n1>yolyoz</n1>
+    <n2>youlyouz</n2>
+    <darija_ar>يوليوز</darija_ar>
+    <eng>july</eng>
+  </entry>
+  <entry>
+    <n1>ghocht</n1>
+    <darija_ar>غشت</darija_ar>
+    <eng>august</eng>
+  </entry>
+  <entry>
+    <n1>chotanbir</n1>
+    <darija_ar>شتنبر</darija_ar>
+    <eng>september</eng>
+  </entry>
+  <entry>
+    <n1>oktoubr</n1>
+    <n2>oktobr</n2>
+    <darija_ar>أكتوبر</darija_ar>
+    <eng>october</eng>
+  </entry>
+  <entry>
+    <n1>nowanbir</n1>
+    <darija_ar>نونبر</darija_ar>
+    <eng>november</eng>
+  </entry>
+  <entry>
+    <n1>dojanbir</n1>
+    <n2>doujanbir</n2>
+    <darija_ar>دجنبر</darija_ar>
+    <eng>december</eng>
+  </entry>
+  <entry>
+    <n1>ch8er wahd</n1>
+    <n2>ch8ar wahd</n2>
+    <n3>ch8r wa7d</n3>
+    <n4>ch8er wa7d</n4>
+    <darija_ar>شهر واحد</darija_ar>
+    <eng>january</eng>
+  </entry>
+  <entry>
+    <n1>ch8er jouj</n1>
+    <n2>ch8ar jouj</n2>
+    <n3>ch8r jouj</n3>
+    <n4>ch8er joj</n4>
+    <darija_ar>شهر جوج</darija_ar>
+    <eng>february</eng>
+  </entry>
+  <entry>
+    <n1>ch8er tlata</n1>
+    <n2>ch8ar tlata</n2>
+    <n3>ch8r tlata</n3>
+    <darija_ar>شهر تلاتة</darija_ar>
+    <eng>march</eng>
+  </entry>
+  <entry>
+    <n1>ch8er rb3a</n1>
+    <n2>ch8ar rb3a</n2>
+    <n3>ch8r rb3a</n3>
+    <n4>ch8er reb3a</n4>
+    <darija_ar>شهر ربعة</darija_ar>
+    <eng>april</eng>
+  </entry>
+  <entry>
+    <n1>ch8er khmsa</n1>
+    <n2>ch8ar khmsa</n2>
+    <n3>ch8r khmsa</n3>
+    <n4>ch8er khamsa</n4>
+    <darija_ar>شهر خمسة</darija_ar>
+    <eng>may</eng>
+  </entry>
+  <entry>
+    <n1>ch8er stta</n1>
+    <n2>ch8ar stta</n2>
+    <n3>ch8r stta</n3>
+    <n4>ch8er setta</n4>
+    <darija_ar>شهر ستة</darija_ar>
+    <eng>june</eng>
+  </entry>
+  <entry>
+    <n1>ch8er sb3a</n1>
+    <n2>ch8ar sb3a</n2>
+    <n3>ch8r sb3a</n3>
+    <n4>ch8er seb3a</n4>
+    <darija_ar>شهر سبعة</darija_ar>
+    <eng>july</eng>
+  </entry>
+  <entry>
+    <n1>ch8er tmnia</n1>
+    <n2>ch8ar tmnia</n2>
+    <n3>ch8r tmnia</n3>
+    <n4>ch8er tmenia</n4>
+    <darija_ar>شهر تمنية</darija_ar>
+    <eng>august</eng>
+  </entry>
+  <entry>
+    <n1>ch8er ts3oud</n1>
+    <n2>ch8ar ts3oud</n2>
+    <n3>ch8r ts3oud</n3>
+    <n4>ch8er ts3eud</n4>
+    <darija_ar>شهر تسعود</darija_ar>
+    <eng>september</eng>
+  </entry>
+  <entry>
+    <n1>ch8er 3chra</n1>
+    <n2>ch8ar 3chra</n2>
+    <n3>ch8r 3chra</n3>
+    <n4>ch8er 3echra</n4>
+    <darija_ar>شهر عشرة</darija_ar>
+    <eng>october</eng>
+  </entry>
+  <entry>
+    <n1>ch8er 7Dach</n1>
+    <n2>ch8ar 7Dach</n2>
+    <n3>ch8r 7Dach</n3>
+    <darija_ar>شهر حضاش</darija_ar>
+    <eng>november</eng>
+  </entry>
+  <entry>
+    <n1>ch8er Tnach</n1>
+    <n2>ch8ar Tnach</n2>
+    <n3>ch8r Tnach</n3>
+    <darija_ar>شهر طناش</darija_ar>
+    <eng>december</eng>
+  </entry>
+  <entry>
+    <n1>w9t</n1>
+    <n2>wa9t</n2>
+    <n3>we9t</n3>
+    <darija_ar>وقت</darija_ar>
+    <eng>time</eng>
+  </entry>
+  <entry>
+    <n1>7aDir</n1>
+    <n2>7aDer</n2>
+    <n3>7aDr</n3>
+    <darija_ar>حاضر</darija_ar>
+    <eng>present</eng>
+  </entry>
+  <entry>
+    <n1>most9bal</n1>
+    <n2>mosta9bal</n2>
+    <n3>mostaqbal</n3>
+    <n4>mostqbal</n4>
+    <darija_ar>مستقبل</darija_ar>
+    <eng>future</eng>
+  </entry>
+  <entry>
+    <n1>maDi</n1>
+    <n2>maaDi</n2>
+    <n3>li fat</n3>
+    <darija_ar>ماضي</darija_ar>
+    <eng>past</eng>
+  </entry>
+  <entry>
+    <n1>llarob</n1>
+    <n2>llaroub</n2>
+    <darija_ar>لاروب</darija_ar>
+    <eng>quarter to</eng>
+  </entry>
+  <entry>
+    <n1>o 9sem</n1>
+    <n2>o9sem</n2>
+    <n3>oqsem</n3>
+    <darija_ar>و قسم</darija_ar>
+    <eng>five past</eng>
+  </entry>
+  <entry>
+    <n1>o 9smayn</n1>
+    <n2>o9smayn</n2>
+    <n3>oqsmayn</n3>
+    <darija_ar>و قسماين</darija_ar>
+    <eng>ten past</eng>
+  </entry>
+  <entry>
+    <n1>o rb3</n1>
+    <n2>orb3</n2>
+    <n3>orba3</n3>
+    <darija_ar>و ربع</darija_ar>
+    <eng>quarter past</eng>
+  </entry>
+  <entry>
+    <n1>o ness</n1>
+    <n2>oness</n2>
+    <n3>onss</n3>
+    <n4>onass</n4>
+    <darija_ar>و نص</darija_ar>
+    <eng>half past</eng>
+  </entry>
+  <entry>
+    <n1>o sb3 9sam</n1>
+    <n2>osb39sam</n2>
+    <n3>o sbaa qsam</n3>
+    <n4>o sba3 9sam</n4>
+    <darija_ar>و سبع قسام</darija_ar>
+    <eng>thirty five past</eng>
+  </entry>
+  <entry>
+    <n1>9ll toulout</n1>
+    <n2>9ll tolot</n2>
+    <darija_ar>قلّ تولوت</darija_ar>
+    <eng>twenty to</eng>
+  </entry>
+  <entry>
+    <n1>9ll 9smayn</n1>
+    <n2>9ll9smayn</n2>
+    <darija_ar>قلّ قسماين</darija_ar>
+    <eng>ten to</eng>
+  </entry>
+  <entry>
+    <n1>9ll 9sm</n1>
+    <n2>9ll9sm</n2>
+    <darija_ar>قلّ قسم</darija_ar>
+    <eng>five to</eng>
+  </entry>
+  <entry>
+    <n1>mn</n1>
+    <n2>men</n2>
+    <darija_ar>من</darija_ar>
+    <eng>since</eng>
+  </entry>
+  <entry>
+    <n1>lil</n1>
+    <n2>llil</n2>
+    <n3>lile</n3>
+    <darija_ar>ليل</darija_ar>
+    <eng>night</eng>
+  </entry>
+  <entry>
+    <n1>Sba7</n1>
+    <n2>Sbah</n2>
+    <darija_ar>صباح</darija_ar>
+    <eng>morning</eng>
+  </entry>
+  <entry>
+    <n1>3chia</n1>
+    <n2>aachia</n2>
+    <darija_ar>عشية</darija_ar>
+    <eng>evening</eng>
+  </entry>
+  <entry>
+    <n1>wst nhar</n1>
+    <n2>wstnhar</n2>
+    <darija_ar>وسط نهار</darija_ar>
+    <eng>midday</eng>
+  </entry>
+  <entry>
+    <n1>ftra</n1>
+    <n2>fatra</n2>
+    <n3>fetra</n3>
+    <darija_ar>فترة</darija_ar>
+    <eng>period</eng>
+  </entry>
+  <entry>
+    <n1>magana</n1>
+    <n2>sa3a</n2>
+    <darija_ar>ماڭانة</darija_ar>
+    <eng>clock</eng>
+  </entry>
+  <entry>
+    <n1>monasaba</n1>
+    <n2>mounasaba</n2>
+    <n3>monaasaba</n3>
+    <darija_ar>مناسبة</darija_ar>
+    <eng>occasion</eng>
+  </entry>
+  <entry>
+    <n1>nssa3a</n1>
+    <n2>nss sa3a</n2>
+    <n3>ness sa3a</n3>
+    <n4>nessa3a</n4>
+    <darija_ar>نص ساعة</darija_ar>
+    <eng>half an hour</eng>
+  </entry>
+  <entry>
+    <n1>robo3sa3a</n1>
+    <n2>robo3 sa3a</n2>
+    <n3>rba3 sa3a</n3>
+    <darija_ar>ربع ساعة</darija_ar>
+    <eng>quarter of an hour</eng>
+  </entry>
+  <entry>
+    <n1>tolotsa3a</n1>
+    <n2>tolot sa3a</n2>
+    <n3>tolout sa3a</n3>
+    <n4>toloutsa3a</n4>
+    <darija_ar>تولوت ساعة</darija_ar>
+    <eng>twenty minutes</eng>
+  </entry>
+</corpus>

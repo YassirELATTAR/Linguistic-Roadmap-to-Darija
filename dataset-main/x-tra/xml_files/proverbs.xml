@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../../../xsds/darija_others.xsd">
+  <entry>
+    <darija>zreb t3TTel</darija>
+    <darija_ar>زرب تعطّل</darija_ar>
+    <eng>hurry and you will be late</eng>
+  </entry>
+  <entry>
+    <darija>lli 3DDo l7nch kaykhaf mn l7bel</darija>
+    <darija_ar>اللي عضّو لحنش كايخاف من لحبل</darija_ar>
+    <eng>a man bitten by a snake is afraid of rope</eng>
+  </entry>
+  <entry>
+    <darija>kon sb3 o koulni</darija>
+    <darija_ar>كون سبع و كولني</darija_ar>
+    <eng>be a lion and eat me</eng>
+  </entry>
+  <entry>
+    <darija>kaydo99 wigoul chkoun</darija>
+    <darija_ar>كايدقّ و يڭول شكون</darija_ar>
+    <eng>he knocks and says who is there</eng>
+  </entry>
+  <entry>
+    <darija>walaw Tart m3za</darija>
+    <darija_ar>ولو طارت معزة</darija_ar>
+    <eng>when pigs fly</eng>
+  </entry>
+  <entry>
+    <darija>9Tra b 9Tra kay7ml lwad</darija>
+    <darija_ar>قطرة ب قطرة كايحمل لواد</darija_ar>
+    <eng>little drops make the mighty ocean</eng>
+  </entry>
+  <entry>
+    <darija>sdd tl9a mat7ell</darija>
+    <darija_ar>سدّ تلقا ماتحلّ</darija_ar>
+    <eng>lock so that you can find what to unlock</eng>
+  </entry>
+  <entry>
+    <darija>lli khaf nja</darija>
+    <darija_ar>لي خاف نجا</darija_ar>
+    <eng>He who fears survives</eng>
+  </entry>
+  <entry>
+    <darija>l3in baSira olyed 9aSira</darija>
+    <darija_ar>لعين بصيرة و ليد قصيرة</darija_ar>
+    <eng>the eyes see but the hands cannot reach</eng>
+  </entry>
+  <entry>
+    <darija>SSara7a ra7a</darija>
+    <darija_ar>الصراحة راحة</darija_ar>
+    <eng>frankness is peace of mind</eng>
+  </entry>
+  <entry>
+    <darija>SSadi9 we9t DDi9</darija>
+    <darija_ar>الصديق وقت الضيق</darija_ar>
+    <eng>a friend in need is a friend indeed</eng>
+  </entry>
+  <entry>
+    <darija>khirha f ghirha</darija>
+    <darija_ar>خيرها ف غيرها</darija_ar>
+    <eng>better luck next time</eng>
+  </entry>
+  <entry>
+    <darija>Li darha b yeddih yfekha b sennih</darija>
+    <darija_ar>لي دارها ب يدّيه يفكها ب سنّيه</darija_ar>
+    <eng>Whoever caused the problem is responsible of fixing it</eng>
+  </entry>
+  <entry>
+    <darija>lli fat mat</darija>
+    <darija_ar>اللي فات مات</darija_ar>
+    <eng>what's done is done</eng>
+  </entry>
+</corpus>

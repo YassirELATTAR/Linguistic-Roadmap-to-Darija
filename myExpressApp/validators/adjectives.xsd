@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--This file is used for the validation of adding data in an xml file for 'adjectives' in 'grammar' in the database. -->
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    
+    <!-- Define the corpus element -->
     <xsd:element name="corpus">
         <xsd:complexType>
             <xsd:sequence>
@@ -7,7 +10,10 @@
             </xsd:sequence>
         </xsd:complexType>
     </xsd:element>
-    
+
+    <!--This section sets the required entries needed for the xml file to be validated. 
+    Each entry must include the elements 'darija_ar', 'eng', and 'n1', 
+    and only one of each element type can be included. -->
     <xsd:element name="entry"> <xsd:complexType>
         <xsd:sequence>
             <xsd:element ref="n1" minOccurs="1" maxOccurs="1"/> 
@@ -20,6 +26,9 @@
             <xsd:element ref="eng" minOccurs="1" maxOccurs="1"/>
         </xsd:sequence> </xsd:complexType>
     </xsd:element>
+        <!--This section specifies the content that should be in each element. 
+        To ensure the the data in the required elements in each entry is not empty or a whitespace character, 
+        the value in the element is specified with a restriction.-->
         <xsd:element name="n1" type="NonEmptyString"/> 
         <xsd:element name="n2" type="xsd:string"/> 
         <xsd:element name="n3" type="xsd:string"/> 

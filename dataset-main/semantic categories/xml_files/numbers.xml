@@ -1,0 +1,514 @@
+<?xml version="1.0" ?>
+<corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../../../xsds/darija_most.xsd">
+   <entry>
+    <n1>ra9m</n1>
+    <n2>raqm</n2>
+    <darija_ar>رقم</darija_ar>
+    <eng>number</eng>
+  </entry>
+  <entry>
+    <n1>3adad</n1>
+    <darija_ar>عدد</darija_ar>
+    <eng>number</eng>
+  </entry>
+  <entry>
+    <n1>Sifr</n1>
+    <darija_ar>صفر</darija_ar>
+    <eng>zero</eng>
+  </entry>
+  <entry>
+    <n1>ziro</n1>
+    <n2>zero</n2>
+    <darija_ar>زيرو</darija_ar>
+    <eng>zero</eng>
+  </entry>
+  <entry>
+    <n1>wahd</n1>
+    <n2>wa7d</n2>
+    <darija_ar>واحد</darija_ar>
+    <eng>one</eng>
+  </entry>
+  <entry>
+    <n1>jouj</n1>
+    <n2>joj</n2>
+    <n3>zouj</n3>
+    <darija_ar>جوج</darija_ar>
+    <eng>two</eng>
+  </entry>
+  <entry>
+    <n1>tlata</n1>
+    <darija_ar>تلاتة</darija_ar>
+    <eng>three</eng>
+  </entry>
+  <entry>
+    <n1>rb3a</n1>
+    <n2>reb3a</n2>
+    <n3>rab3a</n3>
+    <darija_ar>ربعة</darija_ar>
+    <eng>four</eng>
+  </entry>
+  <entry>
+    <n1>khmsa</n1>
+    <n2>5msa</n2>
+    <n3>khamsa</n3>
+    <n4>khemsa</n4>
+    <darija_ar>خمسة</darija_ar>
+    <eng>five</eng>
+  </entry>
+  <entry>
+    <n1>stta</n1>
+    <n2>seta</n2>
+    <n3>setta</n3>
+    <n4>satta</n4>
+    <darija_ar>ستّة</darija_ar>
+    <eng>six</eng>
+  </entry>
+  <entry>
+    <n1>sb3a</n1>
+    <n2>sab3a</n2>
+    <n3>seb3a</n3>
+    <darija_ar>سبعة</darija_ar>
+    <eng>seven</eng>
+  </entry>
+  <entry>
+    <n1>tmnia</n1>
+    <n2>tmenia</n2>
+    <n3>tmania</n3>
+    <darija_ar>تمنية</darija_ar>
+    <eng>eight</eng>
+  </entry>
+  <entry>
+    <n1>ts3oud</n1>
+    <n2>ts3od</n2>
+    <n3>tas3oud</n3>
+    <n4>tes3oud</n4>
+    <darija_ar>تسعود</darija_ar>
+    <eng>nine</eng>
+  </entry>
+  <entry>
+    <n1>ts3a</n1>
+    <darija_ar>تسعة</darija_ar>
+    <eng>nine</eng>
+  </entry>
+  <entry>
+    <n1>3chra</n1>
+    <n2>3achra</n2>
+    <n3>aachra</n3>
+    <darija_ar>عشرة</darija_ar>
+    <eng>ten</eng>
+  </entry>
+  <entry>
+    <n1>7Dach</n1>
+    <n2>hdach</n2>
+    <darija_ar>حضاش</darija_ar>
+    <eng>eleven</eng>
+  </entry>
+  <entry>
+    <n1>Tnach</n1>
+    <darija_ar>طناش</darija_ar>
+    <eng>twelve</eng>
+  </entry>
+  <entry>
+    <n1>TlTTach</n1>
+    <n2>telTach</n2>
+    <n3>tleTTach</n3>
+    <n4>tleTach</n4>
+    <darija_ar>طلطّاش</darija_ar>
+    <eng>thirteen</eng>
+  </entry>
+  <entry>
+    <n1>rb3Tach</n1>
+    <n2>rba3Tach</n2>
+    <n3>rbe3Tach</n3>
+    <darija_ar>ربعطاش</darija_ar>
+    <eng>fourteen</eng>
+  </entry>
+  <entry>
+    <n1>khmsTach</n1>
+    <n2>5msTach</n2>
+    <n3>khamsTach</n3>
+    <n4>khemsTach</n4>
+    <darija_ar>خمسطاش</darija_ar>
+    <eng>fifteen</eng>
+  </entry>
+  <entry>
+    <n1>sTTach</n1>
+    <n2>seTach</n2>
+    <n3>sTach</n3>
+    <darija_ar>سطّاش</darija_ar>
+    <eng>sixteen</eng>
+  </entry>
+  <entry>
+    <n1>sb3Tach</n1>
+    <n2>sbe3Tach</n2>
+    <n3>sba3Tach</n3>
+    <darija_ar>سبعطاش</darija_ar>
+    <eng>seventeen</eng>
+  </entry>
+  <entry>
+    <n1>tmnTach</n1>
+    <n2>tmenTach</n2>
+    <n3>tmanTach</n3>
+    <darija_ar>تمنطاش</darija_ar>
+    <eng>eighteen</eng>
+  </entry>
+  <entry>
+    <n1>ts3Tach</n1>
+    <n2>tsa3Tach</n2>
+    <n3>tse3Tach</n3>
+    <darija_ar>تسعطاش</darija_ar>
+    <eng>nineteen</eng>
+  </entry>
+  <entry>
+    <n1>3chrin</n1>
+    <n2>3achrin</n2>
+    <n3>3echrin</n3>
+    <n4>3ochrin</n4>
+    <darija_ar>عشرين</darija_ar>
+    <eng>twenty</eng>
+  </entry>
+  <entry>
+    <n1>wahd o 3chrin</n1>
+    <n2>wahd w 3chrin</n2>
+    <n3>wahdo3chrin</n3>
+    <n4>wahdw3chrin</n4>
+    <darija_ar>واحد و عشرين</darija_ar>
+    <eng>twenty one</eng>
+  </entry>
+  <entry>
+    <n1>tnayn o 3chrin</n1>
+    <n2>tnayn w 3chrin</n2>
+    <n3>tnayno3chrin</n3>
+    <n4>tnaynw3chrin</n4>
+    <darija_ar>تناين و عشرين</darija_ar>
+    <eng>twenty two</eng>
+  </entry>
+  <entry>
+    <n1>tlata o 3chrin</n1>
+    <n2>tlata w 3chrin</n2>
+    <n3>tlatao3chrin</n3>
+    <n4>tlataw3chrin</n4>
+    <darija_ar>تلاتة و عشرين</darija_ar>
+    <eng>twenty three</eng>
+  </entry>
+  <entry>
+    <n1>rb3a o 3chrin</n1>
+    <n2>rb3a w 3chrin</n2>
+    <n3>rb3ao3chrin</n3>
+    <n4>rb3aw3chrin</n4>
+    <darija_ar>ربعة و عشرين</darija_ar>
+    <eng>twenty four</eng>
+  </entry>
+  <entry>
+    <n1>khmsa o 3chrin</n1>
+    <n2>khmsa w 3chrin</n2>
+    <n3>khmsao3chrin</n3>
+    <n4>khmsaw3chrin</n4>
+    <darija_ar>خمسة و عشرين</darija_ar>
+    <eng>twenty five</eng>
+  </entry>
+  <entry>
+    <n1>stta o 3chrin</n1>
+    <n2>stta w 3chrin</n2>
+    <n3>sttao3chrin</n3>
+    <n4>sttaw3chrin</n4>
+    <darija_ar>ستّة و عشرين</darija_ar>
+    <eng>twenty six</eng>
+  </entry>
+  <entry>
+    <n1>sb3a o 3chrin</n1>
+    <n2>sb3a w 3chrin</n2>
+    <n3>sb3ao3chrin</n3>
+    <n4>sb3aw3chrin</n4>
+    <darija_ar>سبعة و عشرين</darija_ar>
+    <eng>twenty seven</eng>
+  </entry>
+  <entry>
+    <n1>tmnya o 3chrin</n1>
+    <n2>tmnya w 3chrin</n2>
+    <n3>tmnyao3chrin</n3>
+    <n4>tmnyaw3chrin</n4>
+    <darija_ar>تمنية و عشرين</darija_ar>
+    <eng>twenty eight</eng>
+  </entry>
+  <entry>
+    <n1>ts3oud o 3chrin</n1>
+    <n2>ts3oud w 3chrin</n2>
+    <n3>ts3oudo3chrin</n3>
+    <n4>ts3oudw3chrin</n4>
+    <darija_ar>تسعود و عشرين</darija_ar>
+    <eng>twenty nine</eng>
+  </entry>
+  <entry>
+    <n1>tlatin</n1>
+    <darija_ar>تلاتين</darija_ar>
+    <eng>thirty</eng>
+  </entry>
+  <entry>
+    <n1>rb3in</n1>
+    <n2>rab3in</n2>
+    <n3>reb3in</n3>
+    <darija_ar>ربعين</darija_ar>
+    <eng>forty</eng>
+  </entry>
+  <entry>
+    <n1>khmsin</n1>
+    <n2>5amsin</n2>
+    <n3>khamsin</n3>
+    <n4>khemsin</n4>
+    <darija_ar>خمسين</darija_ar>
+    <eng>fifty</eng>
+  </entry>
+  <entry>
+    <n1>stin</n1>
+    <n2>settin</n2>
+    <n3>sattin</n3>
+    <n4>sttin</n4>
+    <darija_ar>ستين</darija_ar>
+    <eng>sixty</eng>
+  </entry>
+  <entry>
+    <n1>sb3in</n1>
+    <n2>seb3in</n2>
+    <n3>sab3in</n3>
+    <darija_ar>سبعين</darija_ar>
+    <eng>seventy</eng>
+  </entry>
+  <entry>
+    <n1>tmanin</n1>
+    <n2>tamanin</n2>
+    <darija_ar>تمانين</darija_ar>
+    <eng>eighty</eng>
+  </entry>
+  <entry>
+    <n1>ts3in</n1>
+    <n2>tes3in</n2>
+    <n3>tas3in</n3>
+    <darija_ar>تسعين</darija_ar>
+    <eng>ninety</eng>
+  </entry>
+  <entry>
+    <n1>wahd o ts3in</n1>
+    <n2>wahd w ts3in</n2>
+    <n3>wahdots3in</n3>
+    <n4>wahdwts3in</n4>
+    <darija_ar>واحد و تسعين</darija_ar>
+    <eng>ninety one</eng>
+  </entry>
+  <entry>
+    <n1>tnayn o ts3in</n1>
+    <n2>tnayn w ts3in</n2>
+    <n3>tnaynots3in</n3>
+    <n4>tnaynwts3in</n4>
+    <darija_ar>تناين و تسعين</darija_ar>
+    <eng>ninety two</eng>
+  </entry>
+  <entry>
+    <n1>tlata o ts3in</n1>
+    <n2>tlata w ts3in</n2>
+    <n3>tlataots3in</n3>
+    <n4>tlatawts3in</n4>
+    <darija_ar>تلاتة و تسعين</darija_ar>
+    <eng>ninety three</eng>
+  </entry>
+  <entry>
+    <n1>rb3a o ts3in</n1>
+    <n2>rb3a w ts3in</n2>
+    <n3>rb3aots3in</n3>
+    <n4>rb3awts3in</n4>
+    <darija_ar>ربعة و تسعين</darija_ar>
+    <eng>ninety four</eng>
+  </entry>
+  <entry>
+    <n1>khmsa o ts3in</n1>
+    <n2>khmsa w ts3in</n2>
+    <n3>khmsaots3in</n3>
+    <n4>khmsawts3in</n4>
+    <darija_ar>خمسة و تسعين</darija_ar>
+    <eng>ninety five</eng>
+  </entry>
+  <entry>
+    <n1>stta o ts3in</n1>
+    <n2>stta w ts3in</n2>
+    <n3>sttaots3in</n3>
+    <n4>sttawts3in</n4>
+    <darija_ar>ستّة و تسعين</darija_ar>
+    <eng>ninety six</eng>
+  </entry>
+  <entry>
+    <n1>sb3a o ts3in</n1>
+    <n2>sb3a w ts3in</n2>
+    <n3>sb3aots3in</n3>
+    <n4>sb3awts3in</n4>
+    <darija_ar>سبعة و تسعين</darija_ar>
+    <eng>ninety seven</eng>
+  </entry>
+  <entry>
+    <n1>tmnya o ts3in</n1>
+    <n2>tmnya w ts3in</n2>
+    <n3>tmnyaots3in</n3>
+    <n4>tmnyawts3in</n4>
+    <darija_ar>تمنية و تسعين</darija_ar>
+    <eng>ninety eight</eng>
+  </entry>
+  <entry>
+    <n1>ts3oud o ts3in</n1>
+    <n2>ts3oud w ts3in</n2>
+    <n3>ts3oudots3in</n3>
+    <n4>ts3oudwts3in</n4>
+    <darija_ar>تسعود و تسعين</darija_ar>
+    <eng>ninety nine</eng>
+  </entry>
+  <entry>
+    <n1>myya</n1>
+    <n2>mya</n2>
+    <n3>mia</n3>
+    <darija_ar>ميّة</darija_ar>
+    <eng>hundred</eng>
+  </entry>
+  <entry>
+    <n1>alf</n1>
+    <darija_ar>ألف</darija_ar>
+    <eng>thousand</eng>
+  </entry>
+  <entry>
+    <n1>alaf</n1>
+    <n2>l2alaf</n2>
+    <darija_ar>آلاف</darija_ar>
+    <eng>thousands</eng>
+  </entry>
+  <entry>
+    <n1>mlyon</n1>
+    <n2>melyoun</n2>
+    <n3>mlyoun</n3>
+    <n4>malyoun</n4>
+    <darija_ar>مليون</darija_ar>
+    <eng>million</eng>
+  </entry>
+  <entry>
+    <n1>mlyar</n1>
+    <n2>malyar</n2>
+    <n3>melyar</n3>
+    <darija_ar>مليار</darija_ar>
+    <eng>billion</eng>
+  </entry>
+  <entry>
+    <n1>w</n1>
+    <n2>ou</n2>
+    <n3>o</n3>
+    <darija_ar>و</darija_ar>
+    <eng>and</eng>
+  </entry>
+  <entry>
+    <n1>lwwl</n1>
+    <n2>lowwl</n2>
+    <n3>lowel</n3>
+    <n4>lowwel</n4>
+    <darija_ar>لوّل</darija_ar>
+    <eng>first</eng>
+  </entry>
+  <entry>
+    <n1>ttani</n1>
+    <darija_ar>التاني</darija_ar>
+    <eng>second</eng>
+  </entry>
+  <entry>
+    <n1>ttalt</n1>
+    <darija_ar>التالت</darija_ar>
+    <eng>third</eng>
+  </entry>
+  <entry>
+    <n1>rrab3</n1>
+    <n2>rrabe3</n2>
+    <n3>rraba3</n3>
+    <darija_ar>الرابع</darija_ar>
+    <eng>fourth</eng>
+  </entry>
+  <entry>
+    <n1>lkhams</n1>
+    <n2>lkhames</n2>
+    <darija_ar>لخامس</darija_ar>
+    <eng>fifth</eng>
+  </entry>
+  <entry>
+    <n1>ssads</n1>
+    <n2>ssades</n2>
+    <darija_ar>السادس</darija_ar>
+    <eng>sixth</eng>
+  </entry>
+  <entry>
+    <n1>ssab3</n1>
+    <n2>ssabe3</n2>
+    <darija_ar>السابع</darija_ar>
+    <eng>seventh</eng>
+  </entry>
+  <entry>
+    <n1>ttamn</n1>
+    <n2>ttamen</n2>
+    <darija_ar>التامن</darija_ar>
+    <eng>eighth</eng>
+  </entry>
+  <entry>
+    <n1>ttas3</n1>
+    <n2>ttase3</n2>
+    <darija_ar>التاسع</darija_ar>
+    <eng>ninth</eng>
+  </entry>
+  <entry>
+    <n1>l3achr</n1>
+    <n2>l3acher</n2>
+    <darija_ar>لعاشر</darija_ar>
+    <eng>tenth</eng>
+  </entry>
+  <entry>
+    <n1>llkher</n1>
+    <n2>llkhar</n2>
+    <n3>lkher</n3>
+    <n4>akhir</n4>
+    <darija_ar>اللخر</darija_ar>
+    <eng>last</eng>
+  </entry>
+  <entry>
+    <n1>ttolot</n1>
+    <n2>ttolout</n2>
+    <darija_ar>التلت</darija_ar>
+    <eng>one-third</eng>
+  </entry>
+  <entry>
+    <n1>rrobo3</n1>
+    <n2>rrobou3</n2>
+    <darija_ar>الربع</darija_ar>
+    <eng>one-fourth</eng>
+  </entry>
+  <entry>
+    <n1>lkhomos</n1>
+    <n2>lkhomous</n2>
+    <darija_ar>لخمس</darija_ar>
+    <eng>one-fifth</eng>
+  </entry>
+  <entry>
+    <n1>ssodos</n1>
+    <n2>ssodous</n2>
+    <darija_ar>السدس</darija_ar>
+    <eng>one-sixth</eng>
+  </entry>
+  <entry>
+    <n1>ssobo3</n1>
+    <n2>ssobou3</n2>
+    <darija_ar>السبع</darija_ar>
+    <eng>one-seventh</eng>
+  </entry>
+  <entry>
+    <n1>ttomon</n1>
+    <n2>ttomoun</n2>
+    <darija_ar>التمن</darija_ar>
+    <eng>one-eighth</eng>
+  </entry>
+  <entry>
+    <n1>l3ochor</n1>
+    <n2>l3ochour</n2>
+    <darija_ar>لعشر</darija_ar>
+    <eng>one-tenth</eng>
+  </entry>
+</corpus>

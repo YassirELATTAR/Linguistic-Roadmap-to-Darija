@@ -1,0 +1,285 @@
+<?xml version="1.0" ?>
+<corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../../../xsds/darija_most.xsd">
+   <entry>
+    <n1>3a2ila</n1>
+    <darija_ar>عائلة</darija_ar>
+    <eng>family</eng>
+  </entry>
+  <entry>
+    <n1>bnti</n1>
+    <n2>benti</n2>
+    <n3>banti</n3>
+    <darija_ar>بنتي</darija_ar>
+    <eng>my daughter</eng>
+  </entry>
+  <entry>
+    <n1>wldi</n1>
+    <n2>waldi</n2>
+    <n3>weldi</n3>
+    <darija_ar>ولدي</darija_ar>
+    <eng>my son</eng>
+  </entry>
+  <entry>
+    <n1>lwalid</n1>
+    <darija_ar>لواليد</darija_ar>
+    <eng>father</eng>
+  </entry>
+  <entry>
+    <n1>lwalida</n1>
+    <darija_ar>لواليدة</darija_ar>
+    <eng>mother</eng>
+  </entry>
+  <entry>
+    <n1>baba</n1>
+    <n2>bba</n2>
+    <darija_ar>بابا</darija_ar>
+    <eng>dad</eng>
+  </entry>
+  <entry>
+    <n1>mama</n1>
+    <n2>mmi</n2>
+    <n3>mma</n3>
+    <darija_ar>ماما</darija_ar>
+    <eng>mom</eng>
+  </entry>
+  <entry>
+    <n1>khouya</n1>
+    <n2>5ouya</n2>
+    <n3>khoya</n3>
+    <darija_ar>خويا</darija_ar>
+    <eng>my brother</eng>
+  </entry>
+  <entry>
+    <n1>khti</n1>
+    <n2>5ti</n2>
+    <darija_ar>ختي</darija_ar>
+    <eng>my sister</eng>
+  </entry>
+  <entry>
+    <n1>3mi</n1>
+    <n2>aami</n2>
+    <n3>3mmi</n3>
+    <darija_ar>عمي</darija_ar>
+    <eng>my uncle</eng>
+  </entry>
+  <entry>
+    <n1>3mti</n1>
+    <n2>aamti</n2>
+    <n3>3mmti</n3>
+    <darija_ar>عمتي</darija_ar>
+    <eng>my aunt</eng>
+  </entry>
+  <entry>
+    <n1>khali</n1>
+    <n2>5ali</n2>
+    <darija_ar>خالي</darija_ar>
+    <eng>my uncle</eng>
+  </entry>
+  <entry>
+    <n1>khalti</n1>
+    <n2>5alti</n2>
+    <darija_ar>خالتي</darija_ar>
+    <eng>my aunt</eng>
+  </entry>
+  <entry>
+    <n1>kouzan</n1>
+    <n2>kozan</n2>
+    <darija_ar>كوزان</darija_ar>
+    <eng>my cousin</eng>
+  </entry>
+  <entry>
+    <n1>wld 3mi</n1>
+    <n2>wld aami</n2>
+    <n3>wld 3mmi</n3>
+    <darija_ar>ولد عمي</darija_ar>
+    <eng>my cousin</eng>
+  </entry>
+  <entry>
+    <n1>wld 3mti</n1>
+    <n2>wld aamti</n2>
+    <n3>wld 3mmti</n3>
+    <darija_ar>ولد عمتي</darija_ar>
+    <eng>my cousin</eng>
+  </entry>
+  <entry>
+    <n1>wld khali</n1>
+    <n2>wld 5ali</n2>
+    <darija_ar>ولد خالي</darija_ar>
+    <eng>my cousin</eng>
+  </entry>
+  <entry>
+    <n1>wld khalti</n1>
+    <n2>wld 5alti</n2>
+    <darija_ar>ولد خالتي</darija_ar>
+    <eng>my cousin</eng>
+  </entry>
+  <entry>
+    <n1>bnt 3mi</n1>
+    <n2>bnt aami</n2>
+    <n3>bnt 3mmi</n3>
+    <darija_ar>بنت عمي</darija_ar>
+    <eng>my cousin</eng>
+  </entry>
+  <entry>
+    <n1>bnt 3mti</n1>
+    <n2>bnt aamti</n2>
+    <n3>bnt 3mmti</n3>
+    <darija_ar>بنت عمتي</darija_ar>
+    <eng>my cousin</eng>
+  </entry>
+  <entry>
+    <n1>bnt khali</n1>
+    <n2>bnt 5ali</n2>
+    <darija_ar>بنت خالي</darija_ar>
+    <eng>my cousin</eng>
+  </entry>
+  <entry>
+    <n1>bnt khalti</n1>
+    <n2>bnt 5alti</n2>
+    <darija_ar>بنت خالتي</darija_ar>
+    <eng>my cousin</eng>
+  </entry>
+  <entry>
+    <n1>zawja</n1>
+    <n2>zzawja</n2>
+    <darija_ar>زوجة</darija_ar>
+    <eng>wife</eng>
+  </entry>
+  <entry>
+    <n1>lmra</n1>
+    <n2>lemra</n2>
+    <n3>lamra</n3>
+    <darija_ar>لمرا</darija_ar>
+    <eng>wife</eng>
+  </entry>
+  <entry>
+    <n1>zawjati</n1>
+    <darija_ar>زوجتي</darija_ar>
+    <eng>my wife</eng>
+  </entry>
+  <entry>
+    <n1>merti</n1>
+    <n2>mrati</n2>
+    <darija_ar>مرتي</darija_ar>
+    <eng>my wife</eng>
+  </entry>
+  <entry>
+    <n1>madam</n1>
+    <n2>madamti</n2>
+    <darija_ar>مادام</darija_ar>
+    <eng>my wife</eng>
+  </entry>
+  <entry>
+    <n1>zawj</n1>
+    <n2>zzawj</n2>
+    <darija_ar>زوج</darija_ar>
+    <eng>husband</eng>
+  </entry>
+  <entry>
+    <n1>rrajl</n1>
+    <n2>arrajel</n2>
+    <n3>rrajal</n3>
+    <darija_ar>الراجل</darija_ar>
+    <eng>husband</eng>
+  </entry>
+  <entry>
+    <n1>khatibi</n1>
+    <darija_ar>خطيبي</darija_ar>
+    <eng>fiancé </eng>
+  </entry>
+  <entry>
+    <n1>khatibti</n1>
+    <darija_ar>خطيبتي</darija_ar>
+    <eng>fiancée </eng>
+  </entry>
+  <entry>
+    <n1>mjwwj</n1>
+    <n2>mzwwj</n2>
+    <n3>mjawwej</n3>
+    <darija_ar>مجوّج</darija_ar>
+    <eng>married</eng>
+  </entry>
+  <entry>
+    <n1>mjwwja</n1>
+    <n2>mzwwja</n2>
+    <n3>mjawweja</n3>
+    <darija_ar>مجوّجة</darija_ar>
+    <eng>married</eng>
+  </entry>
+  <entry>
+    <n1>3zri</n1>
+    <n2>3azri</n2>
+    <n3>3ezri</n3>
+    <darija_ar>عزري</darija_ar>
+    <eng>single</eng>
+  </entry>
+  <entry>
+    <n1>ddrari</n1>
+    <n2>drari</n2>
+    <darija_ar>الدراري</darija_ar>
+    <eng>children</eng>
+  </entry>
+  <entry>
+    <n1>khout</n1>
+    <n2>5out</n2>
+    <darija_ar>خوت</darija_ar>
+    <eng>brothers</eng>
+  </entry>
+  <entry>
+    <n1>khwatat</n1>
+    <n2>5watat</n2>
+    <darija_ar>خواتات</darija_ar>
+    <eng>sisters</eng>
+  </entry>
+  <entry>
+    <n1>walidin</n1>
+    <darija_ar>واليدين</darija_ar>
+    <eng>parents</eng>
+  </entry>
+  <entry>
+    <n1>khwal</n1>
+    <n2>5wal</n2>
+    <darija_ar>خوال</darija_ar>
+    <eng>uncles</eng>
+  </entry>
+  <entry>
+    <n1>3mam</n1>
+    <n2>a3mam</n2>
+    <darija_ar>عمام</darija_ar>
+    <eng>uncles</eng>
+  </entry>
+  <entry>
+    <n1>7fid</n1>
+    <n2>hfid</n2>
+    <n3>7afid</n3>
+    <darija_ar>حفيد</darija_ar>
+    <eng>grandchild</eng>
+  </entry>
+  <entry>
+    <n1>jdd</n1>
+    <n2>jedd</n2>
+    <n3>jadd</n3>
+    <darija_ar>جدّ</darija_ar>
+    <eng>grandfather</eng>
+  </entry>
+  <entry>
+    <n1>jdda</n1>
+    <n2>jedda</n2>
+    <n3>jadda</n3>
+    <darija_ar>جدّة</darija_ar>
+    <eng>grandmother</eng>
+  </entry>
+  <entry>
+    <n1>7enna</n1>
+    <n2>3ziza</n2>
+    <darija_ar>حنّة</darija_ar>
+    <eng>grandmother</eng>
+  </entry>
+  <entry>
+    <n1>nsab</n1>
+    <n2>nsaab</n2>
+    <darija_ar>نساب</darija_ar>
+    <eng>family-in-law</eng>
+  </entry>
+</corpus>

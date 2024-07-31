@@ -1,0 +1,1523 @@
+<?xml version="1.0" ?>
+<corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../../../xsds/darija_most.xsd">
+  <entry>
+    <n1>m3a</n1>
+    <n2>maa</n2>
+    <darija_ar>معا</darija_ar>
+    <eng>with</eng>
+  </entry>
+  <entry>
+    <n1>m3aya</n1>
+    <n2>maaya</n2>
+    <darija_ar>معايا</darija_ar>
+    <eng>with me</eng>
+  </entry>
+  <entry>
+    <n1>m3aha</n1>
+    <n2>m3a8a</n2>
+    <darija_ar>معاها</darija_ar>
+    <eng>with her</eng>
+  </entry>
+  <entry>
+    <n1>m3ahom</n1>
+    <n2>m3a8om</n2>
+    <n3>m3ahoum</n3>
+    <n4>m3a8oum</n4>
+    <darija_ar>معاهوم</darija_ar>
+    <eng>with them</eng>
+  </entry>
+  <entry>
+    <n1>m3ana</n1>
+    <n2>maana</n2>
+    <darija_ar>معانا</darija_ar>
+    <eng>with us</eng>
+  </entry>
+  <entry>
+    <n1>m3ah</n1>
+    <n2>m3a8</n2>
+    <n3>maah</n3>
+    <darija_ar>معاه</darija_ar>
+    <eng>with him</eng>
+  </entry>
+  <entry>
+    <n1>3ndi</n1>
+    <n2>3andi</n2>
+    <n3>andi</n3>
+    <n4>aandi</n4>
+    <darija_ar>عندي</darija_ar>
+    <eng>I have</eng>
+  </entry>
+  <entry>
+    <n1>3ndo</n1>
+    <n2>3ando</n2>
+    <n3>3endo</n3>
+    <n4>aando</n4>
+    <darija_ar>عندو</darija_ar>
+    <eng>he has</eng>
+  </entry>
+  <entry>
+    <n1>3ndha</n1>
+    <n2>3andha</n2>
+    <n3>3endha</n3>
+    <n4>3and8a</n4>
+    <darija_ar>عندها</darija_ar>
+    <eng>she has</eng>
+  </entry>
+  <entry>
+    <n1>3ndhom</n1>
+    <n2>andhoum</n2>
+    <n3>aandhom</n3>
+    <n4>3andhoum</n4>
+    <darija_ar>عندهوم</darija_ar>
+    <eng>they have</eng>
+  </entry>
+  <entry>
+    <n1>3ndna</n1>
+    <n2>aandna</n2>
+    <n3>3andna</n3>
+    <n4>3endna</n4>
+    <darija_ar>عندنا</darija_ar>
+    <eng>we have</eng>
+  </entry>
+  <entry>
+    <n1>fia</n1>
+    <n2>fyya</n2>
+    <n3>fya</n3>
+    <darija_ar>فيا</darija_ar>
+    <eng>in me</eng>
+  </entry>
+  <entry>
+    <n1>fia</n1>
+    <n2>fyya</n2>
+    <n3>fya</n3>
+    <darija_ar>فيا</darija_ar>
+    <eng>I can</eng>
+  </entry>
+  <entry>
+    <n1>fih</n1>
+    <n2>fi8</n2>
+    <darija_ar>فيه</darija_ar>
+    <eng>in him</eng>
+  </entry>
+  <entry>
+    <n1>fih</n1>
+    <n2>fi8</n2>
+    <darija_ar>فيه</darija_ar>
+    <eng>he can</eng>
+  </entry>
+  <entry>
+    <n1>fiha</n1>
+    <n2>fi8a</n2>
+    <darija_ar>فيها</darija_ar>
+    <eng>in her</eng>
+  </entry>
+  <entry>
+    <n1>fiha</n1>
+    <n2>fi8a</n2>
+    <darija_ar>فيها</darija_ar>
+    <eng>she can</eng>
+  </entry>
+  <entry>
+    <n1>fihom</n1>
+    <n2>fi8om</n2>
+    <n3>fihoum</n3>
+    <n4>fi8oum</n4>
+    <darija_ar>فيهوم</darija_ar>
+    <eng>in them</eng>
+  </entry>
+  <entry>
+    <n1>fihom</n1>
+    <n2>fi8om</n2>
+    <n3>fihoum</n3>
+    <n4>fi8oum</n4>
+    <darija_ar>فيهوم</darija_ar>
+    <eng>they can</eng>
+  </entry>
+  <entry>
+    <n1>fina</n1>
+    <darija_ar>فينا</darija_ar>
+    <eng>in us</eng>
+  </entry>
+  <entry>
+    <n1>fina</n1>
+    <darija_ar>فينا</darija_ar>
+    <eng>we can</eng>
+  </entry>
+  <entry>
+    <n1>noubti</n1>
+    <n2>nobti</n2>
+    <darija_ar>نوبتي</darija_ar>
+    <eng>my turn</eng>
+  </entry>
+  <entry>
+    <n1>noubtek</n1>
+    <n2>noubtk</n2>
+    <n3>nobtk</n3>
+    <n4>nobtek</n4>
+    <darija_ar>نوبتك</darija_ar>
+    <eng>your turn</eng>
+  </entry>
+  <entry>
+    <n1>noubtna</n1>
+    <n2>nobtna</n2>
+    <darija_ar>نوبتنا</darija_ar>
+    <eng>our turn</eng>
+  </entry>
+  <entry>
+    <n1>noubtkom</n1>
+    <n2>nobtkoum</n2>
+    <n3>noubtkoum</n3>
+    <darija_ar>نوبتكوم</darija_ar>
+    <eng>your turn</eng>
+  </entry>
+  <entry>
+    <n1>noubthom</n1>
+    <n2>nobthoum</n2>
+    <n3>nobt8om</n3>
+    <n4>noubthom</n4>
+    <darija_ar>نوبتهوم</darija_ar>
+    <eng>their turn</eng>
+  </entry>
+  <entry>
+    <n1>7daya</n1>
+    <n2>hdaya</n2>
+    <darija_ar>حدايا</darija_ar>
+    <eng>beside me</eng>
+  </entry>
+  <entry>
+    <n1>7dak</n1>
+    <n2>hdak</n2>
+    <darija_ar>حداك</darija_ar>
+    <eng>beside you</eng>
+  </entry>
+  <entry>
+    <n1>7dah</n1>
+    <n2>hdah</n2>
+    <n3>7da8</n3>
+    <darija_ar>حداه</darija_ar>
+    <eng>beside him</eng>
+  </entry>
+  <entry>
+    <n1>7daha</n1>
+    <n2>hdaha</n2>
+    <n3>7da8a</n3>
+    <darija_ar>حداها</darija_ar>
+    <eng>beside her</eng>
+  </entry>
+  <entry>
+    <n1>7dana</n1>
+    <n2>hdana</n2>
+    <darija_ar>حدانا</darija_ar>
+    <eng>beside us</eng>
+  </entry>
+  <entry>
+    <n1>7dahom</n1>
+    <n2>7dahoum</n2>
+    <n3>7da8om</n3>
+    <n4>hdahoum</n4>
+    <darija_ar>حداهوم</darija_ar>
+    <eng>beside them</eng>
+  </entry>
+  <entry>
+    <n1>hakka</n1>
+    <n2>hokka</n2>
+    <n3>8akka</n3>
+    <n4>8okka</n4>
+    <darija_ar>هاكّا</darija_ar>
+    <eng>like this</eng>
+  </entry>
+  <entry>
+    <n1>Safi</n1>
+    <darija_ar>صافي</darija_ar>
+    <eng>alright</eng>
+  </entry>
+  <entry>
+    <n1>mo7al</n1>
+    <n2>mou7al</n2>
+    <n3>mohal</n3>
+    <n4>mouhal</n4>
+    <darija_ar>موحال</darija_ar>
+    <eng>not sure</eng>
+  </entry>
+  <entry>
+    <n1>rah</n1>
+    <n2>ra8</n2>
+    <darija_ar>راه</darija_ar>
+    <eng>in fact</eng>
+  </entry>
+  <entry>
+    <n1>afin</n1>
+    <n2>afen</n2>
+    <n3>afine</n3>
+    <darija_ar>أفين</darija_ar>
+    <eng>Hi</eng>
+  </entry>
+  <entry>
+    <n1>baraka</n1>
+    <darija_ar>باراكا</darija_ar>
+    <eng>enough</eng>
+  </entry>
+  <entry>
+    <n1>bllati</n1>
+    <n2>blati</n2>
+    <n3>bellati</n3>
+    <n4>ballati</n4>
+    <darija_ar>بلّاتي</darija_ar>
+    <eng>wait</eng>
+  </entry>
+  <entry>
+    <n1>3ibadlah</n1>
+    <n2>3ibad lah</n2>
+    <n3>3ibad allah</n3>
+    <n4>ibadlah</n4>
+    <darija_ar>عباد الله</darija_ar>
+    <eng>people</eng>
+  </entry>
+  <entry>
+    <n1>lay7fDk</n1>
+    <n2>lay7afDek</n2>
+    <n3>lay7fDek</n3>
+    <n4>lay7afDak</n4>
+    <darija_ar>لايحفضك</darija_ar>
+    <eng>thanks</eng>
+  </entry>
+  <entry>
+    <n1>lay7fDk</n1>
+    <n2>lay7afDek</n2>
+    <n3>lay7fDek</n3>
+    <n4>lay7afDak</n4>
+    <darija_ar>لايحفضك</darija_ar>
+    <eng>please</eng>
+  </entry>
+  <entry>
+    <n1>laykhllik</n1>
+    <n2>lah ikhellik</n2>
+    <n3>laykhellik</n3>
+    <n4>lah ikhllik</n4>
+    <darija_ar>لايخلّيك</darija_ar>
+    <eng>please</eng>
+  </entry>
+  <entry>
+    <n1>red lbal</n1>
+    <n2>rdlbal</n2>
+    <n3>rdd lbal</n3>
+    <n4>redd lbal</n4>
+    <darija_ar>رد لبال</darija_ar>
+    <eng>pay attention</eng>
+  </entry>
+  <entry>
+    <n1>ga3</n1>
+    <darija_ar>ڭاع</darija_ar>
+    <eng>absolutely</eng>
+  </entry>
+  <entry>
+    <n1>ga3</n1>
+    <darija_ar>ڭاع</darija_ar>
+    <eng>whatsoever</eng>
+  </entry>
+  <entry>
+    <n1>darija</n1>
+    <n2>ddarija</n2>
+    <darija_ar>دارجة</darija_ar>
+    <eng>moroccan dialect</eng>
+  </entry>
+  <entry>
+    <n1>3awttani</n1>
+    <n2>3awdtani</n2>
+    <n3>aawttani</n3>
+    <n4>3awtani</n4>
+    <darija_ar>عاوتّاني</darija_ar>
+    <eng>again</eng>
+  </entry>
+  <entry>
+    <n1>f</n1>
+    <darija_ar>ف</darija_ar>
+    <eng>in</eng>
+  </entry>
+  <entry>
+    <n1>ila</n1>
+    <darija_ar>إلا</darija_ar>
+    <eng>if</eng>
+  </entry>
+  <entry>
+    <n1>sidi</n1>
+    <darija_ar>سيدي</darija_ar>
+    <eng>Mr</eng>
+  </entry>
+  <entry>
+    <n1>lalla</n1>
+    <darija_ar>لالة</darija_ar>
+    <eng>Mme</eng>
+  </entry>
+  <entry>
+    <n1>ssi</n1>
+    <darija_ar>سي</darija_ar>
+    <eng>Mr</eng>
+  </entry>
+  <entry>
+    <n1>moulay</n1>
+    <n2>molay</n2>
+    <darija_ar>مولاي</darija_ar>
+    <eng>Mr</eng>
+  </entry>
+  <entry>
+    <n1>ah</n1>
+    <darija_ar>أه</darija_ar>
+    <eng>yes</eng>
+  </entry>
+  <entry>
+    <n1>lla</n1>
+    <n2>la</n2>
+    <darija_ar>لا</darija_ar>
+    <eng>no</eng>
+  </entry>
+  <entry>
+    <n1>3ndi</n1>
+    <n2>aandi</n2>
+    <n3>3endi</n3>
+    <n4>3andi</n4>
+    <darija_ar>عندي</darija_ar>
+    <eng>I have</eng>
+  </entry>
+  <entry>
+    <n1>3ndk</n1>
+    <n2>aandak</n2>
+    <n3>3ndk</n3>
+    <darija_ar>عندك</darija_ar>
+    <eng>you have</eng>
+  </entry>
+  <entry>
+    <n1>3ndo</n1>
+    <n2>aando</n2>
+    <n3>3endo</n3>
+    <darija_ar>عندو</darija_ar>
+    <eng>he has</eng>
+  </entry>
+  <entry>
+    <n1>3ndha</n1>
+    <n2>aandha</n2>
+    <n3>3nd8a</n3>
+    <n4>3endha</n4>
+    <darija_ar>عندها</darija_ar>
+    <eng>she has</eng>
+  </entry>
+  <entry>
+    <n1>3ndna</n1>
+    <n2>aandna</n2>
+    <n3>3endna</n3>
+    <n4>3andna</n4>
+    <darija_ar>عندنا</darija_ar>
+    <eng>we have</eng>
+  </entry>
+  <entry>
+    <n1>3ndhom</n1>
+    <n2>aandhom</n2>
+    <n3>3nd8om</n3>
+    <n4>3ndhoum</n4>
+    <darija_ar>عندهوم</darija_ar>
+    <eng>they have</eng>
+  </entry>
+  <entry>
+    <n1>3ndkom</n1>
+    <n2>aandkom</n2>
+    <n3>3endkom</n3>
+    <n4>3ndkoum</n4>
+    <darija_ar>عندكوم</darija_ar>
+    <eng>you have</eng>
+  </entry>
+  <entry>
+    <n1>mojoud</n1>
+    <n2>mojod</n2>
+    <n3>kayn</n3>
+    <darija_ar>موجود</darija_ar>
+    <eng>available</eng>
+  </entry>
+  <entry>
+    <n1>gha+</n1>
+    <darija_ar>غا+</darija_ar>
+    <eng>will</eng>
+  </entry>
+  <entry>
+    <n1>ghayr</n1>
+    <darija_ar>غير</darija_ar>
+    <eng>non</eng>
+  </entry>
+  <entry>
+    <n1>7tta</n1>
+    <n2>htta</n2>
+    <darija_ar>حتّا</darija_ar>
+    <eng>even</eng>
+  </entry>
+  <entry>
+    <n1>fa9aT</n1>
+    <n2>ghir</n2>
+    <n3>gher</n3>
+    <darija_ar>فقط</darija_ar>
+    <eng>only</eng>
+  </entry>
+  <entry>
+    <n1>imkn</n1>
+    <n2>imken</n2>
+    <n3>yemken</n3>
+    <darija_ar>إمكن</darija_ar>
+    <eng>could</eng>
+  </entry>
+  <entry>
+    <n1>mazal</n1>
+    <darija_ar>مازال</darija_ar>
+    <eng>still</eng>
+  </entry>
+  <entry>
+    <n1>Tab3an</n1>
+    <darija_ar>طبعا</darija_ar>
+    <eng>sure</eng>
+  </entry>
+  <entry>
+    <n1>7sen</n1>
+    <n2>7ssen</n2>
+    <n3>7san</n3>
+    <n4>hsen</n4>
+    <darija_ar>حسن</darija_ar>
+    <eng>better</eng>
+  </entry>
+  <entry>
+    <n1>yallah</n1>
+    <n2>yalla8</n2>
+    <darija_ar>يالّاه</darija_ar>
+    <eng>let us</eng>
+  </entry>
+  <entry>
+    <n1>chi</n1>
+    <darija_ar>شي</darija_ar>
+    <eng>some</eng>
+  </entry>
+  <entry>
+    <n1>syyda</n1>
+    <n2>syda</n2>
+    <darija_ar>سيّدة</darija_ar>
+    <eng>lady</eng>
+  </entry>
+  <entry>
+    <n1>swa</n1>
+    <darija_ar>سوا</darija_ar>
+    <eng>whether</eng>
+  </entry>
+  <entry>
+    <n1>smo7at</n1>
+    <n2>ssmo7at</n2>
+    <n3>ssmou7at</n3>
+    <darija_ar>سموحات</darija_ar>
+    <eng>i am sorry</eng>
+  </entry>
+  <entry>
+    <n1>chokran</n1>
+    <darija_ar>شكرا</darija_ar>
+    <eng>thank you</eng>
+  </entry>
+  <entry>
+    <n1>lhajj</n1>
+    <n2>l7ajj</n2>
+    <darija_ar>الحاج</darija_ar>
+    <eng>Mr.</eng>
+  </entry>
+  <entry>
+    <n1>lhajja</n1>
+    <n2>l7ajja</n2>
+    <darija_ar>الحاجة</darija_ar>
+    <eng>Mrs.</eng>
+  </entry>
+  <entry>
+    <n1>m3llm</n1>
+    <n2>m3allam</n2>
+    <n3>m3llem</n3>
+    <darija_ar>معلّم</darija_ar>
+    <eng>Mr.</eng>
+  </entry>
+  <entry>
+    <n1>chrif</n1>
+    <n2>chchrif</n2>
+    <darija_ar>شريف</darija_ar>
+    <eng>Mr.</eng>
+  </entry>
+  <entry>
+    <n1>chrifa</n1>
+    <n2>chchrifa</n2>
+    <darija_ar>شريفا</darija_ar>
+    <eng>Mrs.</eng>
+  </entry>
+  <entry>
+    <n1>n3amasidi</n1>
+    <darija_ar>نعاماسيدي</darija_ar>
+    <eng>Mr.</eng>
+  </entry>
+  <entry>
+    <n1>n3amalalla</n1>
+    <darija_ar>نعامالالة</darija_ar>
+    <eng>Mrs.</eng>
+  </entry>
+  <entry>
+    <n1>bS77a</n1>
+    <n2>bSe77a</n2>
+    <n3>bSa77a</n3>
+    <n4>bS7a</n4>
+    <darija_ar>بصحّا</darija_ar>
+    <eng>cheers</eng>
+  </entry>
+  <entry>
+    <n1>srbi</n1>
+    <n2>serbi</n2>
+    <n3>sarbi</n3>
+    <darija_ar>سربي</darija_ar>
+    <eng>hurry</eng>
+  </entry>
+  <entry>
+    <n1>mazal</n1>
+    <darija_ar>مازال</darija_ar>
+    <eng>not yet</eng>
+  </entry>
+  <entry>
+    <n1>7bes</n1>
+    <n2>7bs</n2>
+    <darija_ar>حبس</darija_ar>
+    <eng>stop</eng>
+  </entry>
+  <entry>
+    <n1>gollia</n1>
+    <darija_ar>ڭولّيا</darija_ar>
+    <eng>tell me</eng>
+  </entry>
+  <entry>
+    <n1>hahoa</n1>
+    <n2>hahowa</n2>
+    <n3>8a8oa</n3>
+    <darija_ar>هاهو</darija_ar>
+    <eng>here it is</eng>
+  </entry>
+  <entry>
+    <n1>hahia</n1>
+    <n2>hahya</n2>
+    <n3>8a8ya</n3>
+    <darija_ar>هاهيا</darija_ar>
+    <eng>here she is</eng>
+  </entry>
+  <entry>
+    <n1>hahoma</n1>
+    <n2>ha homa</n2>
+    <n3>8a8oma</n3>
+    <darija_ar>هاهوما</darija_ar>
+    <eng>here they are</eng>
+  </entry>
+  <entry>
+    <n1>ewa mohim</n1>
+    <n2>ewa lmohim</n2>
+    <darija_ar>إوا موهيم</darija_ar>
+    <eng>anyway</eng>
+  </entry>
+  <entry>
+    <n1>yallah</n1>
+    <darija_ar>يالّاه</darija_ar>
+    <eng>just</eng>
+  </entry>
+  <entry>
+    <n1>b7ra</n1>
+    <n2>be7ra</n2>
+    <n3>ba7ra</n3>
+    <darija_ar>بحرا</darija_ar>
+    <eng>just</eng>
+  </entry>
+  <entry>
+    <n1>yallah</n1>
+    <darija_ar>يالّاه</darija_ar>
+    <eng>let us go</eng>
+  </entry>
+  <entry>
+    <n1>mchina</n1>
+    <darija_ar>مشينا</darija_ar>
+    <eng>let us go</eng>
+  </entry>
+  <entry>
+    <n1>ya salam</n1>
+    <n2>yasalam</n2>
+    <darija_ar>يا سلام</darija_ar>
+    <eng>impressive</eng>
+  </entry>
+  <entry>
+    <n1>3la brra</n1>
+    <n2>3la berra</n2>
+    <n3>berra</n3>
+    <n4>brra</n4>
+    <darija_ar>علا برّا</darija_ar>
+    <eng>outside</eng>
+  </entry>
+  <entry>
+    <n1>ssfli</n1>
+    <n2>ssefli</n2>
+    <darija_ar>السفلي</darija_ar>
+    <eng>ground floor</eng>
+  </entry>
+  <entry>
+    <n1>machi mochkil</n1>
+    <darija_ar>ماشي مشكل</darija_ar>
+    <eng>no worries</eng>
+  </entry>
+  <entry>
+    <n1>3Tini</n1>
+    <darija_ar>عطيني</darija_ar>
+    <eng>give me</eng>
+  </entry>
+  <entry>
+    <n1>ach glti</n1>
+    <darija_ar>أش ڭلتي</darija_ar>
+    <eng>what did you say</eng>
+  </entry>
+  <entry>
+    <n1>akid</n1>
+    <n2>2akid</n2>
+    <darija_ar>أكيد</darija_ar>
+    <eng>sure</eng>
+  </entry>
+  <entry>
+    <n1>wakha</n1>
+    <n2>wa5a</n2>
+    <darija_ar>واخا</darija_ar>
+    <eng>ok</eng>
+  </entry>
+  <entry>
+    <n1>mamsalich</n1>
+    <darija_ar>مامساليش</darija_ar>
+    <eng>busy</eng>
+  </entry>
+  <entry>
+    <n1>ahlan</n1>
+    <n2>a8lan</n2>
+    <n3>2a8lan</n3>
+    <darija_ar>أهلا</darija_ar>
+    <eng>hello</eng>
+  </entry>
+  <entry>
+    <n1>salam</n1>
+    <darija_ar>سلام</darija_ar>
+    <eng>Hi</eng>
+  </entry>
+  <entry>
+    <n1>salamo3alaykom</n1>
+    <n2>salamo3laikom</n2>
+    <darija_ar>السلام عليكم</darija_ar>
+    <eng>Hello</eng>
+  </entry>
+  <entry>
+    <n1>mr7ba</n1>
+    <n2>mer7ba</n2>
+    <n3>mar7ba</n3>
+    <n4>merhba</n4>
+    <darija_ar>مرحبا</darija_ar>
+    <eng>welcome</eng>
+  </entry>
+  <entry>
+    <n1>bikhir</n1>
+    <n2>bi5ir</n2>
+    <darija_ar>بيخير</darija_ar>
+    <eng>fine</eng>
+  </entry>
+  <entry>
+    <n1>bslama</n1>
+    <n2>beslama</n2>
+    <darija_ar>بسلاما</darija_ar>
+    <eng>goodbye</eng>
+  </entry>
+  <entry>
+    <n1>3afak</n1>
+    <n2>afak</n2>
+    <n3>eafak</n3>
+    <darija_ar>عافاك</darija_ar>
+    <eng>please</eng>
+  </entry>
+  <entry>
+    <n1>idan</n1>
+    <darija_ar>إذن</darija_ar>
+    <eng>so</eng>
+  </entry>
+  <entry>
+    <n1>blmonasaba</n1>
+    <n2>bl monasaba</n2>
+    <n3>belmounasaba</n3>
+    <n4>blmonaasaba</n4>
+    <darija_ar>بالمناسبة</darija_ar>
+    <eng>by the way</eng>
+  </entry>
+  <entry>
+    <n1>b Tabi3t l7al</n1>
+    <n2>bTabi3t l7al</n2>
+    <n3>b Tabi3at l7al</n3>
+    <n4>mn Tabi3t l7al</n4>
+    <darija_ar>ب طبيعة لحال</darija_ar>
+    <eng>of course</eng>
+  </entry>
+  <entry>
+    <n1>fhemt</n1>
+    <n2>f8emt</n2>
+    <n3>fhmt</n3>
+    <n4>f8mt</n4>
+    <darija_ar>فهمت</darija_ar>
+    <eng>I get it</eng>
+  </entry>
+  <entry>
+    <n1>b7al b7al</n1>
+    <n2>bhal bhal</n2>
+    <n3>b7alb7al</n3>
+    <darija_ar>بحال بحال</darija_ar>
+    <eng>either way</eng>
+  </entry>
+  <entry>
+    <n1>ti99en</n1>
+    <n2>ty99en</n2>
+    <darija_ar>تيقّن</darija_ar>
+    <eng>make sure</eng>
+  </entry>
+  <entry>
+    <n1>3la 9bli</n1>
+    <n2>3la 9ebli</n2>
+    <n3>3la 9abli</n3>
+    <darija_ar>علا قبلي</darija_ar>
+    <eng>for me</eng>
+  </entry>
+  <entry>
+    <n1>Thella</n1>
+    <n2>T8ella</n2>
+    <n3>Thela</n3>
+    <n4>Thalla</n4>
+    <darija_ar>طهلّا</darija_ar>
+    <eng>take care</eng>
+  </entry>
+  <entry>
+    <n1>bsse7!</n1>
+    <n2>bSSa7!</n2>
+    <n3>beSSe7!</n3>
+    <darija_ar>بصح!</darija_ar>
+    <eng>really!</eng>
+  </entry>
+  <entry>
+    <n1>jat m3ak</n1>
+    <n2>ja m3ak</n2>
+    <darija_ar>جات معاك</darija_ar>
+    <eng>it suits you</eng>
+  </entry>
+  <entry>
+    <n1>jatk hia hadik</n1>
+    <n2>jak hoa hadak</n2>
+    <darija_ar>جاتك هيا هاديك</darija_ar>
+    <eng>it suits you</eng>
+  </entry>
+  <entry>
+    <n1>3ll a9all</n1>
+    <n2>3la9all</n2>
+    <n3>3ell a9all</n3>
+    <n4>3ella9ell</n4>
+    <darija_ar>علّ أقلّ</darija_ar>
+    <eng>at least</eng>
+  </entry>
+  <entry>
+    <n1>7tta fikra</n1>
+    <darija_ar>حتّا فكرة</darija_ar>
+    <eng>no idea</eng>
+  </entry>
+  <entry>
+    <n1>adna fikra</n1>
+    <darija_ar>أدنى فكرة</darija_ar>
+    <eng>no idea</eng>
+  </entry>
+  <entry>
+    <n1>ila akhirih</n1>
+    <darija_ar>إلا أخره</darija_ar>
+    <eng>etc</eng>
+  </entry>
+  <entry>
+    <n1>bss7</n1>
+    <n2>bssa7</n2>
+    <n3>bssah</n3>
+    <n4>bsse7</n4>
+    <darija_ar>بصح</darija_ar>
+    <eng>really</eng>
+  </entry>
+  <entry>
+    <n1>wah</n1>
+    <n2>wa8</n2>
+    <n3>wayli</n3>
+    <n4>waili</n4>
+    <darija_ar>واه</darija_ar>
+    <eng>really</eng>
+  </entry>
+  <entry>
+    <n1>moul dar</n1>
+    <n2>mouldar</n2>
+    <darija_ar>مول دار</darija_ar>
+    <eng>husband</eng>
+  </entry>
+  <entry>
+    <n1>moulat dar</n1>
+    <n2>moulatdar</n2>
+    <darija_ar>مولات دار</darija_ar>
+    <eng>wife</eng>
+  </entry>
+  <entry>
+    <n1>7ass brasou</n1>
+    <n2>7ass braso</n2>
+    <darija_ar>حاسّ براسو</darija_ar>
+    <eng>arrogant</eng>
+  </entry>
+  <entry>
+    <n1>ch7al hada</n1>
+    <n2>ch7al hadi</n2>
+    <darija_ar>شحال هادا</darija_ar>
+    <eng>a while ago</eng>
+  </entry>
+  <entry>
+    <n1>Sba7 lkhir</n1>
+    <n2>Sba7lkhir</n2>
+    <darija_ar>صباح لخير</darija_ar>
+    <eng>good morning</eng>
+  </entry>
+  <entry>
+    <n1>3la ghfla</n1>
+    <n2>3la ghefla</n2>
+    <n3>3la ghafla</n3>
+    <darija_ar>علا غفلا</darija_ar>
+    <eng>suddenly</eng>
+  </entry>
+  <entry>
+    <n1>msa lkhir</n1>
+    <n2>msalkhir</n2>
+    <darija_ar>مسا لخير</darija_ar>
+    <eng>good evening</eng>
+  </entry>
+  <entry>
+    <n1>tSb7 3la khir</n1>
+    <n2>tSbe7 3la khir</n2>
+    <n3>tSba7 3la khir</n3>
+    <darija_ar>تصبح علا خير</darija_ar>
+    <eng>good night</eng>
+  </entry>
+  <entry>
+    <n1>hamdolah</n1>
+    <n2>hamdolilah</n2>
+    <n3>lhamdolah</n3>
+    <darija_ar>الحمد لله</darija_ar>
+    <eng>thank god</eng>
+  </entry>
+  <entry>
+    <n1>mtchrrfin</n1>
+    <n2>metcherrfin</n2>
+    <n3>mtcharrfin</n3>
+    <n4>mtcherrfin</n4>
+    <darija_ar>متشرّفين</darija_ar>
+    <eng>nice to meet you</eng>
+  </entry>
+  <entry>
+    <n1>Tri9 ssalama</n1>
+    <n2>Tri9 salama</n2>
+    <darija_ar>طريق السلامة</darija_ar>
+    <eng>have a nice trip</eng>
+  </entry>
+  <entry>
+    <n1>afin akhona</n1>
+    <n2>afen akhona</n2>
+    <n3>afen akhouna</n3>
+    <darija_ar>أفين أخونا</darija_ar>
+    <eng>how are you brother</eng>
+  </entry>
+  <entry>
+    <n1>allah iktter khirk</n1>
+    <n2>lah iktter khirek</n2>
+    <darija_ar>الله إكتّر خيرك</darija_ar>
+    <eng>thank you</eng>
+  </entry>
+  <entry>
+    <n1>la chokra 3ala wajib</n1>
+    <darija_ar>لا شكرا على واجب</darija_ar>
+    <eng>you are welcome</eng>
+  </entry>
+  <entry>
+    <n1>l3afw</n1>
+    <n2>l3afow</n2>
+    <darija_ar>لعفو</darija_ar>
+    <eng>you are welcome</eng>
+  </entry>
+  <entry>
+    <n1>sm7 lia</n1>
+    <n2>sme7 lia</n2>
+    <n3>sma7 lia</n3>
+    <darija_ar>سمح ليا</darija_ar>
+    <eng>sorry</eng>
+  </entry>
+  <entry>
+    <n1>maykon bas</n1>
+    <n2>mykon bas</n2>
+    <n3>maykon bass</n3>
+    <darija_ar>مايكون باس</darija_ar>
+    <eng>good recovery</eng>
+  </entry>
+  <entry>
+    <n1>allah iyesser</n1>
+    <n2>lah iyesser</n2>
+    <n3>layesser</n3>
+    <darija_ar>الله إيسّر</darija_ar>
+    <eng>good luck</eng>
+  </entry>
+  <entry>
+    <n1>mbrouk</n1>
+    <n2>mebrouk</n2>
+    <n3>mabrouk</n3>
+    <n4>mbrok</n4>
+    <darija_ar>مبروك</darija_ar>
+    <eng>congratulations</eng>
+  </entry>
+  <entry>
+    <n1>bS77a</n1>
+    <n2>bSS7a</n2>
+    <darija_ar>بصحّا</darija_ar>
+    <eng>your good health</eng>
+  </entry>
+  <entry>
+    <n1>39balik</n1>
+    <n2>3o9balik</n2>
+    <darija_ar>عقباليك</darija_ar>
+    <eng>I wish the same for you</eng>
+  </entry>
+  <entry>
+    <n1>ajarakom allah</n1>
+    <n2>ajarakoum lah</n2>
+    <n3>ajarakom lah</n3>
+    <darija_ar>أجاركم الله</darija_ar>
+    <eng>my condolences</eng>
+  </entry>
+  <entry>
+    <n1>allah ir7mo</n1>
+    <n2>lah ire7mo</n2>
+    <n3>allah ire7mo</n3>
+    <darija_ar>الله إرحمو</darija_ar>
+    <eng>god have mercy on him</eng>
+  </entry>
+  <entry>
+    <n1>rdd lbal</n1>
+    <n2>redd lbal</n2>
+    <n3>redlbal</n3>
+    <darija_ar>ردّ لبال</darija_ar>
+    <eng>be careful</eng>
+  </entry>
+  <entry>
+    <n1>hadchi fchkel</n1>
+    <darija_ar>هادشي فشكل</darija_ar>
+    <eng>this is weird</eng>
+  </entry>
+  <entry>
+    <n1>hania</n1>
+    <darija_ar>هانيا</darija_ar>
+    <eng>do not worry</eng>
+  </entry>
+  <entry>
+    <n1>safi nsa</n1>
+    <darija_ar>صافي نسا</darija_ar>
+    <eng>never mind</eng>
+  </entry>
+  <entry>
+    <n1>mrra khra</n1>
+    <n2>merra khra</n2>
+    <darija_ar>مرّة خرا</darija_ar>
+    <eng>next time</eng>
+  </entry>
+  <entry>
+    <n1>8Dra khawya</n1>
+    <n2>hdra khawya</n2>
+    <darija_ar>هضرة خاوية</darija_ar>
+    <eng>nonsense</eng>
+  </entry>
+  <entry>
+    <n1>wach bSS7</n1>
+    <n2>wach bSSe7</n2>
+    <darija_ar>واش بصّح</darija_ar>
+    <eng>really</eng>
+  </entry>
+  <entry>
+    <n1>nchoufouk</n1>
+    <darija_ar>نشوفوك</darija_ar>
+    <eng>see you</eng>
+  </entry>
+  <entry>
+    <n1>hani jay</n1>
+    <n2>8ani jay</n2>
+    <darija_ar>هاني جاي</darija_ar>
+    <eng>I will be back</eng>
+  </entry>
+  <entry>
+    <n1>ch7al f ssa3a</n1>
+    <n2>ch7al fsa3a</n2>
+    <darija_ar>شحال ف الساعة</darija_ar>
+    <eng>what time is it</eng>
+  </entry>
+  <entry>
+    <n1>3lach lla</n1>
+    <n2>3lach la</n2>
+    <darija_ar>علاش لا</darija_ar>
+    <eng>why not</eng>
+  </entry>
+  <entry>
+    <n1>wach nta</n1>
+    <darija_ar>واش نتا</darija_ar>
+    <eng>are you</eng>
+  </entry>
+  <entry>
+    <n1>wach t9dr</n1>
+    <darija_ar>واش تقدر</darija_ar>
+    <eng>can you</eng>
+  </entry>
+  <entry>
+    <n1>fkkrni</n1>
+    <n2>fekkerni</n2>
+    <n3>fakkerni</n3>
+    <darija_ar>فكّرني</darija_ar>
+    <eng>remind me</eng>
+  </entry>
+  <entry>
+    <n1>ch7al dayra hadi</n1>
+    <n2>ch7al dayr hada</n2>
+    <darija_ar>شحال دايرا هادي</darija_ar>
+    <eng>how much is this</eng>
+  </entry>
+  <entry>
+    <n1>tfDDl</n1>
+    <n2>tfDDel</n2>
+    <n3>tfeDDel</n3>
+    <n4>tfaDDal</n4>
+    <darija_ar>تفضّل</darija_ar>
+    <eng>please come in</eng>
+  </entry>
+  <entry>
+    <n1>ach kayn</n1>
+    <n2>ach kayen</n2>
+    <darija_ar>أش كاين</darija_ar>
+    <eng>what is wrong</eng>
+  </entry>
+  <entry>
+    <n1>kolla nhar</n1>
+    <n2>kolla n8ar</n2>
+    <darija_ar>كولّا نهار</darija_ar>
+    <eng>every day</eng>
+  </entry>
+  <entry>
+    <n1>fink</n1>
+    <n2>finek</n2>
+    <darija_ar>فينك</darija_ar>
+    <eng>where are you</eng>
+  </entry>
+  <entry>
+    <n1>lli fat</n1>
+    <darija_ar>اللي فات</darija_ar>
+    <eng>past</eng>
+  </entry>
+  <entry>
+    <n1>ghayr 3adi</n1>
+    <darija_ar>غير عادي</darija_ar>
+    <eng>unusual</eng>
+  </entry>
+  <entry>
+    <n1>3ndo 9ima</n1>
+    <n2>3endo 9ima</n2>
+    <n3>3ndo 9yma</n3>
+    <darija_ar>عندو قيمة</darija_ar>
+    <eng>valuable</eng>
+  </entry>
+  <entry>
+    <n1>3la ghfla</n1>
+    <n2>3la ghefla</n2>
+    <n3>3la ghafla</n3>
+    <darija_ar>علا غفلة</darija_ar>
+    <eng>sudden</eng>
+  </entry>
+  <entry>
+    <n1>dyal DDo</n1>
+    <darija_ar>ديال الضو</darija_ar>
+    <eng>electric</eng>
+  </entry>
+  <entry>
+    <n1>makaytSenne3ch</n1>
+    <darija_ar>ماكايتصنّعش</darija_ar>
+    <eng>cool</eng>
+  </entry>
+  <entry>
+    <n1>Tal3 lih demm</n1>
+    <darija_ar>طالع ليه دمّ</darija_ar>
+    <eng>mad</eng>
+  </entry>
+  <entry>
+    <n1>w9t kaml</n1>
+    <n2>we9t kaml</n2>
+    <n3>wa9t kaml</n3>
+    <darija_ar>وقت كامل</darija_ar>
+    <eng>full-time</eng>
+  </entry>
+  <entry>
+    <n1>dyal lm3da</n1>
+    <n2>dyal lme3da</n2>
+    <n3>dyal lma3da</n3>
+    <darija_ar>ديال لمعدة</darija_ar>
+    <eng>gastric</eng>
+  </entry>
+  <entry>
+    <n1>momkin it9arn</n1>
+    <n2>momkin it9aren</n2>
+    <darija_ar>ممكن إتقارن</darija_ar>
+    <eng>comparable</eng>
+  </entry>
+  <entry>
+    <n1>fayt l9yas</n1>
+    <n2>fayet l9yas</n2>
+    <darija_ar>فايت لقياس</darija_ar>
+    <eng>excessive</eng>
+  </entry>
+  <entry>
+    <n1>3llmada l9aSir</n1>
+    <n2>3la lmada l9aSir</n2>
+    <darija_ar>علّمادا لقصير</darija_ar>
+    <eng>short-term</eng>
+  </entry>
+  <entry>
+    <n1>sa8l toSl lih</n1>
+    <n2>sahl toSl lih</n2>
+    <darija_ar>ساهل توصل ليه</darija_ar>
+    <eng>accessible</eng>
+  </entry>
+  <entry>
+    <n1>a9all 7edd</n1>
+    <n2>a9all 7add</n2>
+    <darija_ar>أقلّ حدّ</darija_ar>
+    <eng>minimal</eng>
+  </entry>
+  <entry>
+    <n1>ma3ndo a8ammia</n1>
+    <n2>ma3ndoch a8ammia</n2>
+    <darija_ar>ماعندو أهمّية</darija_ar>
+    <eng>irrelevant</eng>
+  </entry>
+  <entry>
+    <n1>3ndo a8ammia</n1>
+    <n2>3ando a8ammia</n2>
+    <darija_ar>عندو أهمّية</darija_ar>
+    <eng>relevant</eng>
+  </entry>
+  <entry>
+    <n1>ma3ndo 9ima</n1>
+    <n2>ma3ndoch 9ima</n2>
+    <n3>ma3ndouch 9ima</n3>
+    <darija_ar>ماعندو قيمة</darija_ar>
+    <eng>useless</eng>
+  </entry>
+  <entry>
+    <n1>3ndo 9ima</n1>
+    <n2>3endo 9ima</n2>
+    <darija_ar>عندو قيمة</darija_ar>
+    <eng>worthy</eng>
+  </entry>
+  <entry>
+    <n1>3ndo zz8er</n1>
+    <n2>3endo zzher</n2>
+    <n3>3ndo zzhar</n3>
+    <darija_ar>عندو الزهر</darija_ar>
+    <eng>lucky</eng>
+  </entry>
+  <entry>
+    <n1>9aDi lgharad</n1>
+    <darija_ar>قاضي لغاراد</darija_ar>
+    <eng>satisfactory</eng>
+  </entry>
+  <entry>
+    <n1>n8ar 3la n8ar</n1>
+    <n2>nhar 3la nhar</n2>
+    <darija_ar>نهار علا نهار</darija_ar>
+    <eng>day-to-day</eng>
+  </entry>
+  <entry>
+    <n1>mchkok fih</n1>
+    <n2>mchkouk fih</n2>
+    <darija_ar>مشكوك فيه</darija_ar>
+    <eng>doubtful</eng>
+  </entry>
+  <entry>
+    <n1>maymknch tyye98a</n1>
+    <n2>maymknch tyye9ha</n2>
+    <darija_ar>مايمكنش تيّقها</darija_ar>
+    <eng>incredible</eng>
+  </entry>
+  <entry>
+    <n1>dayr ttaman</n1>
+    <darija_ar>داير التامان</darija_ar>
+    <eng>costly</eng>
+  </entry>
+  <entry>
+    <n1>mntachr bzzaf</n1>
+    <n2>mntacher bzzaf</n2>
+    <darija_ar>منتاشر بزّاف</darija_ar>
+    <eng>large-scale</eng>
+  </entry>
+  <entry>
+    <n1>t7t larD</n1>
+    <n2>te7t larD</n2>
+    <n3>ta7t larD</n3>
+    <darija_ar>تحت لارض</darija_ar>
+    <eng>underground</eng>
+  </entry>
+  <entry>
+    <n1>3ndo m3na</n1>
+    <n2>3endo ma3na</n2>
+    <n3>3ando ma3na</n3>
+    <n4>3endo me3na</n4>
+    <darija_ar>عندو معنا</darija_ar>
+    <eng>meaningful</eng>
+  </entry>
+  <entry>
+    <n1>fih SSda3</n1>
+    <n2>fih Sda3</n2>
+    <darija_ar>فيه الصداع</darija_ar>
+    <eng>noisy</eng>
+  </entry>
+  <entry>
+    <n1>fih DDajij</n1>
+    <n2>fih Dajij</n2>
+    <n3>fih ddajij</n3>
+    <darija_ar>فيه الضجيج</darija_ar>
+    <eng>noisy</eng>
+  </entry>
+  <entry>
+    <n1>3ndo lmana3a</n1>
+    <n2>3endo lmana3a</n2>
+    <darija_ar>عندو لمناعة</darija_ar>
+    <eng>immune</eng>
+  </entry>
+  <entry>
+    <n1>ma3ndo m3na</n1>
+    <n2>ma3endo me3na</n2>
+    <darija_ar>ماعندو معنا</darija_ar>
+    <eng>absurd</eng>
+  </entry>
+  <entry>
+    <n1>ma3ndo tta m3na</n1>
+    <n2>ma3ndo ta ma3na</n2>
+    <darija_ar>ماعندو تا معنا</darija_ar>
+    <eng>absurd</eng>
+  </entry>
+  <entry>
+    <n1>ghayr msbou9</n1>
+    <n2>ghayr masbou9</n2>
+    <darija_ar>غير مسبوق</darija_ar>
+    <eng>unprecedented</eng>
+  </entry>
+  <entry>
+    <n1>ma3ndo taman</n1>
+    <n2>ma3ando taman</n2>
+    <darija_ar>ماعندو تامان</darija_ar>
+    <eng>invaluable</eng>
+  </entry>
+  <entry>
+    <n1>9bl lwe9t</n1>
+    <n2>9bel lwe9t</n2>
+    <n3>9bel lwa9t</n3>
+    <darija_ar>قبل لوقت</darija_ar>
+    <eng>premature</eng>
+  </entry>
+  <entry>
+    <n1>mabghah 7dd</n1>
+    <n2>mabghah 7edd</n2>
+    <darija_ar>مابغاه حدّ</darija_ar>
+    <eng>unwanted</eng>
+  </entry>
+  <entry>
+    <n1>mabghah tta 7dd</n1>
+    <n2>mabghah tta 7edd</n2>
+    <darija_ar>مابغاه تا حدّ</darija_ar>
+    <eng>unwanted</eng>
+  </entry>
+  <entry>
+    <n1>khda b3in l i3tibar</n1>
+    <n2>khda b3in l3tibar</n2>
+    <n3>khda b 3in l3tibar</n3>
+    <darija_ar>خدا بعين الاعتبار</darija_ar>
+    <eng>consider</eng>
+  </entry>
+  <entry>
+    <n1>ba3 o chra</n1>
+    <darija_ar>باع و شرا</darija_ar>
+    <eng>trade</eng>
+  </entry>
+  <entry>
+    <n1>makayn bas</n1>
+    <darija_ar>ماكاين باس</darija_ar>
+    <eng>no worries</eng>
+  </entry>
+  <entry>
+    <n1>ma3ndi mangol</n1>
+    <n2>ma3nedi mangol</n2>
+    <n3>ma3ndi mangoul</n3>
+    <darija_ar>ماعندي مانڭول</darija_ar>
+    <eng>perfect</eng>
+  </entry>
+  <entry>
+    <n1>dakchi 3lach</n1>
+    <darija_ar>داكشي علاش</darija_ar>
+    <eng>that's why</eng>
+  </entry>
+  <entry>
+    <n1>kolla ch8r</n1>
+    <n2>kolla ch8er</n2>
+    <n3>kolla ch8ar</n3>
+    <darija_ar>كولّا شهر</darija_ar>
+    <eng>monthly</eng>
+  </entry>
+  <entry>
+    <n1>kolla nhar</n1>
+    <n2>kola nhar</n2>
+    <darija_ar>كولّا نهار</darija_ar>
+    <eng>daily</eng>
+  </entry>
+  <entry>
+    <n1>kolla 3am</n1>
+    <n2>kola 3am</n2>
+    <darija_ar>كولّا عام</darija_ar>
+    <eng>yearly</eng>
+  </entry>
+  <entry>
+    <n1>kolla simana</n1>
+    <n2>kola simana</n2>
+    <darija_ar>كولّا سيمانا</darija_ar>
+    <eng>weekly</eng>
+  </entry>
+  <entry>
+    <n1>kolla sa3a</n1>
+    <n2>kola sa3a</n2>
+    <darija_ar>كولّا ساعة</darija_ar>
+    <eng>hourly</eng>
+  </entry>
+  <entry>
+    <n1>kolla mrra</n1>
+    <n2>kola mrra</n2>
+    <darija_ar>كولّا مرّة</darija_ar>
+    <eng>each time</eng>
+  </entry>
+  <entry>
+    <n1>mn daba chwia</n1>
+    <n2>men daba chwia</n2>
+    <darija_ar>من دابا شويا</darija_ar>
+    <eng>soon</eng>
+  </entry>
+  <entry>
+    <n1>Trofa sghar</n1>
+    <darija_ar>طروفا صغار</darija_ar>
+    <eng>smithereens</eng>
+  </entry>
+  <entry>
+    <n1>ila l 2abad</n1>
+    <n2>ila l2abad</n2>
+    <n3>ila l 2abad</n3>
+    <darija_ar>الى الأبد</darija_ar>
+    <eng>forever</eng>
+  </entry>
+  <entry>
+    <n1>aji</n1>
+    <darija_ar>أجي</darija_ar>
+    <eng>hey</eng>
+  </entry>
+  <entry>
+    <n1>moul</n1>
+    <n2>mol</n2>
+    <darija_ar>مول</darija_ar>
+    <eng>possessor of</eng>
+  </entry>
+  <entry>
+    <n1>fhad tawakhir</n1>
+    <darija_ar>فهاد التواخير</darija_ar>
+    <eng>lately</eng>
+  </entry>
+  <entry>
+    <n1>l</n1>
+    <n2>el</n2>
+    <n3>al</n3>
+    <darija_ar>ل</darija_ar>
+    <eng>the</eng>
+  </entry>
+  <entry>
+    <n1>wa7d</n1>
+    <n2>wahd</n2>
+    <darija_ar>واحد</darija_ar>
+    <eng>a</eng>
+  </entry>
+  <entry>
+    <n1>wa7d</n1>
+    <n2>wahd</n2>
+    <darija_ar>واحد</darija_ar>
+    <eng>an</eng>
+  </entry>
+  <entry>
+    <n1>ayy</n1>
+    <darija_ar>أيّ</darija_ar>
+    <eng>any</eng>
+  </entry>
+  <entry>
+    <n1>akhor</n1>
+    <n2>a5or</n2>
+    <darija_ar>أخور</darija_ar>
+    <eng>another</eng>
+  </entry>
+  <entry>
+    <n1>3la 7sab</n1>
+    <n2>3la 7asab</n2>
+    <n3>3la hasab</n3>
+    <darija_ar>علا حساب</darija_ar>
+    <eng>it depends</eng>
+  </entry>
+  <entry>
+    <n1>lsou2 l7ad</n1>
+    <n2>lsou2 lhad</n2>
+    <n3>lsou2 l7add</n3>
+    <n4>lsou2 lhad</n4>
+    <darija_ar>لسوء الحظ</darija_ar>
+    <eng>unfortunately</eng>
+  </entry>
+  <entry>
+    <n1>radd balek</n1>
+    <n2>radd balak</n2>
+    <n3>rad balek</n3>
+    <n4>rdd balak</n4>
+    <darija_ar>رد بالك</darija_ar>
+    <eng>be careful</eng>
+  </entry>
+  <entry>
+    <n1>hoa hadak</n1>
+    <n2>howa hadak</n2>
+    <darija_ar>هو هاداك</darija_ar>
+    <eng>that's it</eng>
+  </entry>
+  <entry>
+    <n1>ja m3ak</n1>
+    <darija_ar>جا معاك</darija_ar>
+    <eng>it suits you</eng>
+  </entry>
+  <entry>
+    <n1>mcha l7al</n1>
+    <n2>mchal7al</n2>
+    <n3>mcha lhal</n3>
+    <darija_ar>مشى لحال</darija_ar>
+    <eng>running behind schedule</eng>
+  </entry>
+  <entry>
+    <n1>makayn chay</n1>
+    <n2>makaynchay</n2>
+    <darija_ar>ماكاين شي</darija_ar>
+    <eng>nothing at all</eng>
+  </entry>
+  <entry>
+    <n1>mn ch7al hada</n1>
+    <n2>mn chhal hada</n2>
+    <n3>mn ch7al hadi</n3>
+    <darija_ar>من شحال هادا</darija_ar>
+    <eng>it's been a while</eng>
+  </entry>
+</corpus>

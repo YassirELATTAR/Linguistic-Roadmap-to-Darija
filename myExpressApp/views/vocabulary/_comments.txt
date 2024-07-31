@@ -1,0 +1,12 @@
+This folder contains the codes that display the respective pages in the 'Vocabulary' section of the site. 
+With the exception for 'femalenames.esj', and 'malenames.ejs', all other files contain the same codes, the only exceptions 
+are the contents from the database it retrieves and the various labels. 
+The code starts with the main layout of the page, containing the same layout as the rest of the site, with a navigation bar, 
+and links to other parts of the site. Some of the items on the navigation bar are includes further options when hovered over, 
+in the style of a dropdown menu. 
+In the main page portion, contains the header, based on the name of the file. For all other files, it would display a table 
+of up to 9 columns with the following headers: 'English', 'Arabic Darija', 'Form 1', 'Form 2', 'Form 3', 'Form 4', 'Form 5', 
+and 'Form 6'. For the files 'femalenames.ejs', and 'malenames.ejs', there will be 2 columns with the headers 'Latin Form', 
+and 'Arabic Form' The content of the table would then be retrieved from the database with the name of the file and then 
+printed on the page. The number of columns changes based on the data in retrieved. 
+At the end the codes for the footer includes some details about the project and is also the same throughout the site.

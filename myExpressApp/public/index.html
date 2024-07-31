@@ -328,7 +328,7 @@
     renderChart();
 
 
-    //Search for words:
+    //Search for words and display them in the html page:
     document.getElementById('searchForm').addEventListener('submit', async function (e) {
       e.preventDefault();
       const query = e.target.query.value;
@@ -371,7 +371,7 @@
     });
 
 
-
+    //The following code is just to make the slides move to display the images
     let slideIndex = 0;
     const slides = document.querySelectorAll('#slideshow img');
     const totalSlides = slides.length;

@@ -1,0 +1,14 @@
+This folder contains the codes that display the respective pages in the 'Contribute' section of the site. 
+All files present in this folder contain the same codes for the site layout, with varying differences for some of the pages. 
+The code starts with the main layout of the page, containing the same layout as the rest of the site, with a navigation bar, 
+and links to other parts of the site. Some of the items on the navigation bar are includes further options when hovered over, 
+in the style of a dropdown menu. 
+There are a few sections in the main page portion. The first section contains the description of each of the three main 
+dataset that users will be uploading their xml files to contribute to the database. It shows the different categories 
+available in each dataset. In the next section, the instructions are included for users to contribute their contributions. 
+From a dropdown box, the user can select from a variety of categories for 'grammar' and 'vocabulary', as well as in 
+'sentences', in their respective pages, and the example section would show the user an example of how their xml files should 
+look like. Users can then select a file from their devices, and upload the file. The script in 'grammarjavascript.js' file 
+would be triggered to validate the xml file that was uploaded. Messages will be shown based on the validity of the uploaded 
+files, and the users can submit their file after if the validation is successful. 
+At the end the codes for the footer includes some details about the project and is also the same throughout the site.

@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../../../xsds/darija_others.xsd">
+   <entry>
+    <darija>jwabo 3la nabo</darija>
+    <darija_ar>جوابو علا نابو</darija_ar>
+    <eng>quick-witted</eng>
+  </entry>
+  <entry>
+    <darija>smen o 3sel</darija>
+    <darija_ar>سمن و عسل</darija_ar>
+    <eng>sweet</eng>
+  </entry>
+  <entry>
+    <darija>bayna ll3wer</darija>
+    <darija_ar>باينا للعور</darija_ar>
+    <eng>crystal clear</eng>
+  </entry>
+  <entry>
+    <darija>Darb chch3a</darija>
+    <darija_ar>ضارب الشعا</darija_ar>
+    <eng>impressive</eng>
+  </entry>
+  <entry>
+    <darija>Tmmer</darija>
+    <darija_ar>طمّر</darija_ar>
+    <eng>turning a blind eye</eng>
+  </entry>
+  <entry>
+    <darija>myyek</darija>
+    <darija_ar>ميّك</darija_ar>
+    <eng>turning a blind eye</eng>
+  </entry>
+  <entry>
+    <darija>ma3ndk fin t8reb</darija>
+    <darija_ar>ماعندك فين تهرب</darija_ar>
+    <eng>inevitable</eng>
+  </entry>
+  <entry>
+    <darija>mataymregch</darija>
+    <darija_ar>ماتايمرڭش</darija_ar>
+    <eng>unashamed</eng>
+  </entry>
+  <entry>
+    <darija>kayDrr f rras</darija>
+    <darija_ar>كايضرّ ف الراس</darija_ar>
+    <eng>controversial</eng>
+  </entry>
+  <entry>
+    <darija>sir waji</darija>
+    <darija_ar>سير واجي</darija_ar>
+    <eng>back and forth</eng>
+  </entry>
+  <entry>
+    <darija>3llah</darija>
+    <darija_ar>عالله</darija_ar>
+    <eng>randomly</eng>
+  </entry>
+  <entry>
+    <darija>charb bloulou</darija>
+    <darija_ar>شارب بلولو</darija_ar>
+    <eng>mature</eng>
+  </entry>
+  <entry>
+    <darija>kayna lm3na</darija>
+    <darija_ar>كاينا لمعنى</darija_ar>
+    <eng>worthwhile</eng>
+  </entry>
+  <entry>
+    <darija>labas 3lih</darija>
+    <darija_ar>لاباس عليه</darija_ar>
+    <eng>wealthy</eng>
+  </entry>
+  <entry>
+    <darija>fiha inna</darija>
+    <darija_ar>فيها إنّ</darija_ar>
+    <eng>suspicious</eng>
+  </entry>
+  <entry>
+    <darija>Tal3a lih l9rda</darija>
+    <darija_ar>طالعا ليه لقردة</darija_ar>
+    <eng>furious</eng>
+  </entry>
+  <entry>
+    <darija>S77a w slam</darija>
+    <darija_ar>صحّا و سلام</darija_ar>
+    <eng>safe and sound</eng>
+  </entry>
+  <entry>
+    <darija>howa howa</darija>
+    <darija_ar>هو هو</darija_ar>
+    <eng>unchanged</eng>
+  </entry>
+  <entry>
+    <darija>hir 3llah</darija>
+    <darija_ar>هير عالله</darija_ar>
+    <eng>arbitrary</eng>
+  </entry>
+  <entry>
+    <darija>fog chchb3a</darija>
+    <darija_ar>فوڭ الشبعا</darija_ar>
+    <eng>superfluous</eng>
+  </entry>
+  <entry>
+    <darija>3ndo fiddih</darija>
+    <darija_ar>عندو فيدّيه</darija_ar>
+    <eng>talented</eng>
+  </entry>
+  <entry>
+    <darija>zaz louz</darija>
+    <darija_ar>زاز لوز</darija_ar>
+    <eng>nice-looking</eng>
+  </entry>
+  <entry>
+    <darija>chchan TTan</darija>
+    <darija_ar>الشان الطان</darija_ar>
+    <eng>quickly</eng>
+  </entry>
+  <entry>
+    <darija>bi8 fi8</darija>
+    <darija_ar>بيه فيه</darija_ar>
+    <eng>quickly</eng>
+  </entry>
+  <entry>
+    <darija>blkheff</darija>
+    <darija_ar>بلخفّ</darija_ar>
+    <eng>quickly</eng>
+  </entry>
+  <entry>
+    <darija>Lah i3mmerha dar</darija>
+    <darija_ar>الله إعمّرها دار</darija_ar>
+    <eng>courteous</eng>
+  </entry>
+  <entry>
+    <darija>lah i3mmrha dar</darija>
+    <darija_ar>الله إعمّرها دار</darija_ar>
+    <eng>he's a good man</eng>
+  </entry>
+  <entry>
+    <darija>7bb o tben</darija>
+    <darija_ar>حبّ و تبن</darija_ar>
+    <eng>the whole ball of wax</eng>
+  </entry>
+  <entry>
+    <darija>kay9r9bo nnab</darija>
+    <darija_ar>كايقرقبو الناب</darija_ar>
+    <eng>chew the rag</eng>
+  </entry>
+  <entry>
+    <darija>9r9b nnab</darija>
+    <darija_ar>قرقب الناب</darija_ar>
+    <eng>chew the fat</eng>
+  </entry>
+  <entry>
+    <darija>Tal9ha</darija>
+    <darija_ar>طالقها</darija_ar>
+    <eng>he is lying</eng>
+  </entry>
+  <entry>
+    <darija>rbeT sslogyya</darija>
+    <darija_ar>ربط السلوڭيّة</darija_ar>
+    <eng>stop lying</eng>
+  </entry>
+  <entry>
+    <darija>mcha fiha</darija>
+    <darija_ar>مشا فيها</darija_ar>
+    <eng>he's screwed</eng>
+  </entry>
+  <entry>
+    <darija>Tal3a lia l9rda</darija>
+    <darija_ar>طالعا ليا لقردة</darija_ar>
+    <eng>I'm angry</eng>
+  </entry>
+  <entry>
+    <darija>Allah i3Tina wj8ek</darija>
+    <darija_ar>الله إعطينا وجهك</darija_ar>
+    <eng>aren't you embarrassed</eng>
+  </entry>
+  <entry>
+    <darija>lah imskhek</darija>
+    <darija_ar>الله إمسخك</darija_ar>
+    <eng>shame on you</eng>
+  </entry>
+  <entry>
+    <darija>Lfya9 bekri bdheb mechri</darija>
+    <darija_ar>لفياق بكري بدهب مشري</darija_ar>
+    <eng>The early bird gets the worm</eng>
+  </entry>
+  <entry>
+    <darija>Li zreb t3eTel</darija>
+    <darija_ar>لي زرب تعطل</darija_ar>
+    <eng>Hurrying up too much can make you late</eng>
+  </entry>
+  <entry>
+    <darija>Li fat mat</darija>
+    <darija_ar>لي فات مات</darija_ar>
+    <eng>The past is dead</eng>
+  </entry>
+  <entry>
+    <darija>gleb stta ts3oud</darija>
+    <darija_ar>ڭلب ستة تسعود</darija_ar>
+    <eng>Change the subject</eng>
+  </entry>
+  <entry>
+    <darija>Dar l3ssa frweyda</darija>
+    <darija_ar>ضار لعصا فرويدة</darija_ar>
+    <eng>Throws a wrench into the works</eng>
+  </entry>
+  <entry>
+    <darija>ferge3 remmana</darija>
+    <darija_ar>فرڭع رمّانة</darija_ar>
+    <eng>spills the beans</eng>
+  </entry>
+  <entry>
+    <darija>hadchi msllkni</darija>
+    <darija_ar>هادشي مسلّكني</darija_ar>
+    <eng>that suits me</eng>
+  </entry>
+  <entry>
+    <darija>3la 7sabk</darija>
+    <darija_ar>علا حسابك</darija_ar>
+    <eng>it's on you</eng>
+  </entry>
+  <entry>
+    <darija>Lah i3Tik matakol</darija>
+    <darija_ar>الله إعطيك ماتاكل</darija_ar>
+    <eng>shame on you</eng>
+  </entry>
+  <entry>
+    <darija>3la 799o o Tri9o</darija>
+    <darija_ar>علا حقّو و طريقو</darija_ar>
+    <eng>properly</eng>
+  </entry>
+  <entry>
+    <darija>miraran wa tikraran</darija>
+    <darija_ar>مرارا و تكرارا</darija_ar>
+    <eng>frequently</eng>
+  </entry>
+  <entry>
+    <darija>chdd zkir</darija>
+    <darija_ar>شدّ الزكير</darija_ar>
+    <eng>digs his heels in</eng>
+  </entry>
+  <entry>
+    <darija>3in mika</darija>
+    <darija_ar>عين ميكا</darija_ar>
+    <eng>turn a blind eye</eng>
+  </entry>
+</corpus>
