@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Family</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="../mycss.css">
+  <link rel="stylesheet" href="../searchStyle.css">
+</head>
+<body class="main-layout">
+  <nav class="navbar navbar-expand-lg navbar-light justify-content-center custom-padding">
+    <a class="navbar-brand" href="../index.html"><img src="../img/logo.png" alt="Home" height="30"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="vocabularyDropdown" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            Vocabulary
+          </a>
+          <div class="dropdown-menu" aria-labelledby="vocabularyDropdown">
+            <a class="dropdown-item" href="/vocabulary/animals">Animals</a>
+            <a class="dropdown-item" href="/vocabulary/art">Art</a>
+            <a class="dropdown-item" href="/vocabulary/clothes">Clothes</a>
+            <a class="dropdown-item" href="/vocabulary/colors">Colors</a>
+            <a class="dropdown-item" href="/vocabulary/economy">Economy</a>
+            <a class="dropdown-item" href="/vocabulary/education">Education</a>
+            <a class="dropdown-item" href="/vocabulary/emotions">Emotions</a>
+            <a class="dropdown-item" href="/vocabulary/environment">Environment</a>
+            <a class="dropdown-item" href="/vocabulary/family">Family</a>
+            <a class="dropdown-item" href="/vocabulary/femalenames">Female Names</a>
+            <a class="dropdown-item" href="/vocabulary/food">Food</a>
+            <a class="dropdown-item" href="/vocabulary/health">Health</a>
+            <a class="dropdown-item" href="/vocabulary/humanbody">Human Body</a>
+            <a class="dropdown-item" href="/vocabulary/malenames">Male Names</a>
+            <a class="dropdown-item" href="/vocabulary/numbers">Numbers</a>
+            <a class="dropdown-item" href="/vocabulary/places">Places</a>
+            <a class="dropdown-item" href="/vocabulary/plants">Plants</a>
+            <a class="dropdown-item" href="/vocabulary/professions">Professions</a>
+            <a class="dropdown-item" href="/vocabulary/religion">Religion</a>
+            <a class="dropdown-item" href="/vocabulary/sports">Sports</a>
+            <a class="dropdown-item" href="/vocabulary/time">Time</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="grammarDropdown" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            Grammar
+          </a>
+          <div class="dropdown-menu" aria-labelledby="grammarDropdown">
+            <a class="dropdown-item" href="/grammar/definite_indefinite">Definite Indefinite</a>
+            <a class="dropdown-item" href="/grammar/adjectives">Adjectives</a>
+            <a class="dropdown-item" href="/grammar/adverbs">Adverbs</a>
+            <a class="dropdown-item" href="/grammar/conjug_past">Conjugation Past</a>
+            <a class="dropdown-item" href="/grammar/conjug_present">Conjugation Present</a>
+            <a class="dropdown-item" href="/grammar/imperatives">Imperatives</a>
+            <a class="dropdown-item" href="/grammar/masculin_feminine_plural">Masculin-Feminine-Plural</a>
+            <a class="dropdown-item" href="/grammar/nouns">Nouns</a>
+            <a class="dropdown-item" href="/grammar/prepositions">Prepositions</a>
+            <a class="dropdown-item" href="/grammar/pronouns">Pronouns</a>
+            <a class="dropdown-item" href="/grammar/verb-to-noun">Verb to Noun</a>
+            <a class="dropdown-item" href="/grammar/verbs">Verbs</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/vocabulary/sentences">Sentences</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="contributeDropdown" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            Contribute
+          </a>
+          <div class="dropdown-menu" aria-labelledby="contributeDropdown">
+            <a class="dropdown-item" href="/contribute/vocabulary">To Vocabulary</a>
+            <a class="dropdown-item" href="/contribute/grammar">To Grammar</a>
+            <a class="dropdown-item" href="/contribute/sentences">To Sentences</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../index.html#searchForm">Search</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class="container mt-4">
+    <h1 class="main_heading text-center">Family</h1>
+    <div class="my-main-div">
+      <table class="table">
+        <thead class="thead-light">
+          <tr>
+            <% headers.forEach(header => { %>
+              <th scope="col"><%= header === 'eng' ? 'English' : header === 'darija_ar' ? 'Arabic Darija' : header === 'n1' ? 'Form 1': header === 'n2' ? ' Form 2': header === 'n3' ? ' Form 3': header === 'n4' ? ' Form 4': header === 'n5' ? ' Form 5': header === 'n6' ? ' Form 6' : header %></th>
+            <% }); %>
+          </tr>
+        </thead>
+        <tbody>
+          <% family.forEach(fam => { %>
+            <tr>
+              <% headers.forEach(header => { %>
+                <td><%= fam[header] || '' %></td>
+              <% }); %>
+            </tr>
+          <% }); %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  
+
+
+<footer class="footer py-4">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-12 mb-4">
+                <div class="footer-widget">
+                    <h6>Students:</h6>
+                    <ul class="list-unstyled">
+                        <li><a style="text-decoration: none; color: black;" target="_blank" href="https://yassirea.me">Yassir EL ATTAR</a></li>
+                        <li>Shawn Chua</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-12 mb-4">
+                <div class="footer-widget">
+                    <h6>Professor:</h6>
+                    <ul class="list-unstyled">
+                        <li>Dr. Kerstin Jung</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-12 mb-4">
+                <div class="footer-widget">
+                    <h6>Degree:</h6>
+                    <ul class="list-unstyled">
+                        <li>Computational Linguistics</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-12 mb-4">
+                <div class="footer-widget">
+                    <h6>Course:</h6>
+                    <ul class="list-unstyled">
+                        <li>Text Technology</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-12 mb-4">
+                <div class="footer-widget">
+                    <h6>University:</h6>
+                    <ul class="list-unstyled">
+                        <li>Unitversität Stuttgart</li>
+                        <li>Summer 24</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-12 mb-4 d-flex align-items-center">
+                <div class="footer-widget">
+                  <img src="../img/logo2.png" height="60" alt="Logo"/>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+<style>
+</style>
+</html>

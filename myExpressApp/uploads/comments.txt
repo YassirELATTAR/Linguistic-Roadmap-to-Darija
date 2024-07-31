@@ -1,0 +1,1 @@
+This folder contains the XML that are validated and uploaded to the server 

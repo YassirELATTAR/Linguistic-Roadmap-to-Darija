@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <xsd:element name="corpus">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="entry" maxOccurs="unbounded"/>
+      </xsd:sequence>
+    </xsd:complexType>
+    <!-- this constraint makes sure that the value of pronoun form is unique -->
+    <xsd:unique name="uniquePronouns">
+      <xsd:selector xpath="entry/form"/>
+      <xsd:field xpath="@pronoun"/>
+    </xsd:unique>
+  </xsd:element>
+  
+  <xsd:element name="entry">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="root" minOccurs="1" maxOccurs="1"/>
+        <xsd:element ref="form" minOccurs="3" maxOccurs="3"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  
+  <xsd:element name="root" type="NonEmptyString"/>
+  
+  <!-- the form has attribute 'pronoun' which has one of the values in the list -->
+  <xsd:element name="form">
+    <xsd:complexType>
+      <xsd:simpleContent>
+        <xsd:extension base="NonEmptyString">
+          <xsd:attribute name="pronoun">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:enumeration value="nta"/>
+                <xsd:enumeration value="nti"/>
+                <xsd:enumeration value="ntoma"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:attribute>
+        </xsd:extension>
+      </xsd:simpleContent>
+    </xsd:complexType>
+  </xsd:element>
+  
+  <xsd:simpleType name="NonEmptyString">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value=".*\S.*"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+  
+</xsd:schema>

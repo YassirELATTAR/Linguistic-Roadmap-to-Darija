@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="corpus">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="entry" maxOccurs="unbounded"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    
+    <xsd:element name="entry"> <xsd:complexType>
+        <xsd:sequence>
+        <xsd:element ref="darija" minOccurs="1" maxOccurs="1"/> 
+        <xsd:element ref="darija_ar" minOccurs="1" maxOccurs="1"/>
+        <xsd:element ref="eng" minOccurs="1" maxOccurs="1"/>
+        </xsd:sequence> </xsd:complexType>
+    </xsd:element>
+        <xsd:element name="darija" type="NonEmptyString"/> 
+        <xsd:element name="darija_ar" type="NonEmptyString"/>
+        <xsd:element name="eng" type="NonEmptyString"/>
+
+    <xsd:simpleType name="NonEmptyString">
+        <xsd:restriction base="xsd:string">
+            <xsd:pattern value=".*\S.*"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+</xsd:schema>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="corpus">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="entry" maxOccurs="unbounded"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    
+    <xsd:element name="entry"> <xsd:complexType>
+        <xsd:sequence>
+        <xsd:element ref="verb" minOccurs="1" maxOccurs="1"/> 
+        <xsd:element ref="noun" minOccurs="1" maxOccurs="1"/>
+        </xsd:sequence> </xsd:complexType>
+        </xsd:element>
+        <xsd:element name="verb" type="xsd:string"/>
+        <xsd:element name="noun" type="xsd:string"/>
+</xsd:schema>

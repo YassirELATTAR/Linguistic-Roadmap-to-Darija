@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define the corpus element -->
+  <xsd:element name="corpus">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="entry" maxOccurs="unbounded"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  
+  <xsd:element name="entry">
+    <xsd:complexType>
+      <xsd:sequence>
+        <!-- at least one of masculine or feminine or both-->
+        <xsd:choice minOccurs="1" maxOccurs="2">
+          <xsd:element ref="masculine"/>
+          <xsd:element ref="feminine"/>
+        </xsd:choice>
+        <!-- at least one of masc_plural or fem_plural o both -->
+        <xsd:choice minOccurs="1" maxOccurs="2">
+          <xsd:element ref="masc_plural"/>
+          <xsd:element ref="fem_plural"/>
+        </xsd:choice>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  
+  <xsd:element name="masculine" type="xsd:string"/>
+  <xsd:element name="feminine" type="xsd:string"/>
+  <xsd:element name="masc_plural" type="xsd:string"/>
+  <xsd:element name="fem_plural" type="xsd:string"/>
+
+</xsd:schema>
